@@ -6,7 +6,7 @@
 carpentry: "lc"
 
 # Overall title for pages.
-title: "Findable, Accessible, Interoperable, Reusable (FAIR) Data for Librarians"
+title: "Findable, Accessible, Interoperable, and Reusable (FAIR) Data for Librarians"
 
 # Contact.  This *must* include the protocol: if it's an email
 # address, it must look like "mailto:lessons@software-carpentry.org",
