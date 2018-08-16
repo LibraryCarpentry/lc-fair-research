@@ -29,3 +29,5 @@ Examples
 Nature Scientific data 
 Biomedical Data Journal (BMDJ)
 Can you find another example not listed here (e.g. in a discipline)?
+
+Add AAS example http://iopscience.iop.org/journal/0067-0049/page/article-data as answer to quiz
