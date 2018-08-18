@@ -54,3 +54,29 @@ Challenge Questions:
 - Where can you download the freely available data?
 - How does ORCID solicit community input outside of its governance?
 - Are the tools used to create, read, update, delete ORCID data open?
+
+
+## Tombstones, a very grave subject
+
+There are a variety of reasons why a placeholder with metadata or tombstone of the removed research object exists including but not limited to staff removal, spam, request from owner, data center does not exist is still, etc. A tombstone page is needed when data and software is no longer accessible. A tombstone page communicates that the record is gone, why it is gone, and in case you really must know, there is a copy of the metadata for the record. A tombstone page should include: DOI, date of deaccession, reason for deaccession, message explaining the data center's policies, and a message that a copy of the metadata is kept for record keeping purposes as well as checksums of the files. Zenodo offers us further [explanation of the reasoning behind tombstone pages](https://github.com/zenodo/zenodo/issues/160). 
+
+DataCite offers [statistics](https://stats.datacite.org/) where the failure to resolve DOIs after a certain number of attempts is reported (see [DataCite statistics support page](https://support.datacite.org/docs/datacite-statistics)for more information). In the case of Zenodo and the GitHub issue above, the hidden field reveals thousands of records that are a result of spam.
+
+![DataCite Statistics Page]()
+
+If a DOI is no longer available and the data center does not have the resources to create a tombstone page, DataCite provides a generic [tombstone page](https://support.datacite.org/docs/tombstone-pages).
+
+**See the following tombstone examples:**
+
+Zenodo tombstone:
+https://zenodo.org/record/1098445
+
+Figshare tombstone:
+https://figshare.com/articles/Climate_Change/1381402
+
+## Discussion of tombstones
+
+## Lessons to teach in connection with this section and exercises
+[Software Carpentry: Version Control with Git](https://swcarpentry.github.io/git-novice/) or [Library Carpentry: Intro to Git](https://librarycarpentry.github.io/lc-git/)
+[Making your Code Citeable](https://guides.github.com/activities/citable-code/)
+Does an exercise or lesson exist that we can point to involving Software Heritage?
