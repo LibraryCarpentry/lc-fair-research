@@ -48,7 +48,7 @@ ORCID features a principles page where we can assess where it lies on the spectr
  
 Answers:
 - ORCID is a non-profit that collects fees from its members to sustain its operations
-- Creative Commons CC0 1.0 Universal (CC0) license releases data into the public domain, or otherwise grants permission to use it for any purpose
+- [Creative Commons CC0 1.0 Universal (CC0)](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal) license releases data into the public domain, or otherwise grants permission to use it for any purpose
 - It is open to any organization and transcends borders
 Challenge Questions:
 - Where can you download the freely available data?
