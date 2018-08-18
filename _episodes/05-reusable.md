@@ -1,3 +1,16 @@
+---
+title: "Reusable"
+teaching: 0
+exercises: 0
+questions:
+- "Key question"
+objectives:
+- "First objective."
+keypoints:
+- "First key point."
+---
+
+
 R1. (meta)data have a plurality of accurate and relevant attributes
 R1.1 (meta)data are released with a clear and accessible data usage licence
 R1.2 (meta)data are associated with their provenance
