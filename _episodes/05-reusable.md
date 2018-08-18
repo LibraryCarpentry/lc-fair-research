@@ -53,3 +53,49 @@ https://datadryad.org//resource/doi:10.5061/dryad.j512f21p
 Awesome README list (for software):
 https://github.com/matiassingers/awesome-readme
 
+
+
+Different Format Types 
+https://data.library.virginia.edu/data-management/plan/format-types/
+
+RDA Disciplinary Data Formats
+Arts & Humanities to General Data Formats: http://rd-alliance.github.io/metadata-directory/standards/
+
+Vocabularies
+Research Vocabularies Australia https://vocabs.ands.org.au/
+AGROVOC & VocBench http://aims.fao.org/vest-registry/vocabularies/agrovoc
+Dimensions Fields of Research https://dimensions.freshdesk.com/support/solutions/articles/23000012844-what-are-fields-of-research-
+
+
+Versioning/SHA
+https://swcarpentry.github.io/git-novice/reference
+
+Binder - executable environment, making your code immediately reproducible by anyone, anywhere.
+https://blog.jupyter.org/binder-2-0-a-tech-guide-2017-fd40515a3a84
+
+Narrative & Documentation
+Jupyter Notebooks 
+https://www.contentful.com/blog/2018/06/01/create-interactive-tutorials-jupyter-notebooks/
+
+
+Licenses
+Licenses rarely used
+From GitHub https://blog.github.com/2015-03-09-open-source-license-usage-on-github-com/
+
+Lack of licenses provide friction, understanding of whether can reuse
+Peter Murray Project - ContentMine - The Right to Read is the Right to Mine - OpenMinTed
+Creative Commons Wizard and GitHub software licensing wizards (highlight attribution, non commercial)
+
+
+Lessons to teach with this episode
+Data Carpentry - tidy data/data organization with spreadsheets
+https://datacarpentry.org/lessons/
+Library Carpentry - intro to data/tidy data
+
+
+Exercise?
+Reference Management w/ Zotero or other
+
+demo: import Zenodo.org/record/1308061 into Zotero
+demo: RStudio > Packages > Update, run PANGAEA example, then install updates
+https://tibhannover.github.io/2018-07-09-FAIR-Data-and-Software/FAIR-remix-PANGAEA/index.html
