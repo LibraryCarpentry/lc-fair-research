@@ -35,12 +35,22 @@ Alternatively, for sensitive/protected data, if the protocol cannot guarantee se
 ## Author disambiguation and authentication
 Across the research ecosystem, publishers, repositories, funders, research information systems, have recognized the need to address the problem of author disambiguation. The illustrative example below of the many variations of the name _Jens Åge Smærup Sørensen demonstrations_ the challenge of wrangling the correct name for each individual author or contributor:  
   
- ![Jens Åge Smærup Sørensen](https://slideplayer.com/13579783/82/images/5/Jens+%C3%85ge+Sm%C3%A6rup+S%C3%B8rensen.jpg)
+![Jens Åge Smærup Sørensen](https://slideplayer.com/13579783/82/images/5/Jens+%C3%85ge+Sm%C3%A6rup+S%C3%B8rensen.jpg)
 
- Thankfully, a number of research systems are now integrating ORCID into their authentication systems. Zenodo provides the login ORCID authentication option. Once logged in, your ORCID will be assigned to your authored and deposited works:  
+Thankfully, a number of research systems are now integrating ORCID into their authentication systems. Zenodo provides the login ORCID authentication option. Once logged in, your ORCID will be assigned to your authored and deposited works:  
  
- ![Zenodo login with ORCID and GitHub authentication](https://annefou.github.io/jupyter_dashboards/images/zenodo_login.png)
+![Zenodo login with ORCID and GitHub authentication](https://annefou.github.io/jupyter_dashboards/images/zenodo_login.png)
  
- ## Exercise to create ORCID account and authenticate via Zenodo
+## Exercise to create ORCID account and authenticate via Zenodo
  
+## Understanding whether something is open, free, and universally implementable
+ORCID features a principles page where we can assess where it lies on the spectrum of these criteria. Can you identify statements that speak to these conditions: open, free, and universally implemetable?
  
+Answers:
+- ORCID is a non-profit that collects fees from its members to sustain its operations
+- Creative Commons CC0 1.0 Universal (CC0) license releases data into the public domain, or otherwise grants permission to use it for any purpose
+- It is open to any organization and transcends borders
+Challenge Questions:
+- Where can you download the freely available data?
+- How does ORCID solicit community input outside of its governance?
+- Are the tools used to create, read, update, delete ORCID data open?
