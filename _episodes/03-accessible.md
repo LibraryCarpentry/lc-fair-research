@@ -62,7 +62,7 @@ There are a variety of reasons why a placeholder with metadata or tombstone of t
 
 DataCite offers [statistics](https://stats.datacite.org/) where the failure to resolve DOIs after a certain number of attempts is reported (see [DataCite statistics support page](https://support.datacite.org/docs/datacite-statistics)for more information). In the case of Zenodo and the GitHub issue above, the hidden field reveals thousands of records that are a result of spam.
 
-![DataCite Statistics Page]()
+![DataCite Statistics Page](../fig/datacite_stats.png)
 
 If a DOI is no longer available and the data center does not have the resources to create a tombstone page, DataCite provides a generic [tombstone page](https://support.datacite.org/docs/tombstone-pages).
 
