@@ -1,3 +1,16 @@
+---
+title: "Accessible"
+teaching: 0
+exercises: 0
+questions:
+- "Key question"
+objectives:
+- "First objective."
+keypoints:
+- "First key point."
+---
+
+
 For data & software to be accessible:
 
 A1.  (meta)data are retrievable by their identifier using a standardized communications protocol
