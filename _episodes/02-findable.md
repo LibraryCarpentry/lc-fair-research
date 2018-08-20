@@ -69,6 +69,9 @@ https://support.datacite.org/docs/connecting-research-outputs
 
 ## Choosing the right repository
 
+Ask your colleagues & collaborators
+Look for institutional repository at your own institution
+
 Searching re3data w/ exercise
 https://www.re3data.org/
 
