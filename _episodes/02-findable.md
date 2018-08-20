@@ -61,7 +61,7 @@ Digital object identifiers or DOIs are a common PID that used in the scholarly e
 
 ##PIDs are everywhere
 
-[Connecting Research Outputs](../fig/datacite-arxiv-crossref.png)
+![Connecting Research Outputs](../fig/datacite-arxiv-crossref.png)
 
 https://support.datacite.org/docs/connecting-research-outputs
 
