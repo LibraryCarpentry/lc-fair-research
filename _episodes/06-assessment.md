@@ -10,4 +10,18 @@ keypoints:
 - "First key point."
 ---
 
-Assessment tools available from ANDS...
+Assessment tools...
+
+Make Data Count
+https://makedatacount.org/
+
+DANS
+https://www.surveymonkey.com/r/fairdat
+
+ARDC
+https://www.ands-nectar-rds.org.au/fair-tool
+
+DTL FAIRifier
+https://github.com/DTL-FAIRData/FAIRifier
+
+
