@@ -59,17 +59,26 @@ Digital object identifiers or DOIs are a common PID that used in the scholarly e
 
 ![Anatomy of a DOI](../fig/anatomy-of-a-doi.jpg)  
 
-##PIDs are everywhere
+## Connecting research outputs
+DOIs are everywhere. Examples.
 
 ![Connecting Research Outputs](../fig/datacite-arxiv-crossref.png)
 
 https://support.datacite.org/docs/connecting-research-outputs
 
 
+## Choosing the right repository
 
-Slide 19
+Searching re3data w/ exercise
+https://www.re3data.org/
 
-Data Journals
+Search open access repos
+http://v2.sherpa.ac.uk/opendoar/
+
+FAIRSharing
+https://fairsharing.org/databases/
+
+## Data Journals
 
 Another method available to researchers to cite and give credit to research data is to author works in data journals or supplemental approaches used by publishers, societies, disciplines, and/or journals. 
 
