@@ -55,13 +55,14 @@ Reference:
 
 
 ## Anatomy of a PID  
-Digital object identifiers or DOIs are a common PID that used in the scholarly ecosystem. DataCite and CrossRef are notable non-profit? organizations that operate DOI minting registries. 
+Digital object identifiers or DOIs are a common PID that used in the scholarly ecosystem. DataCite and CrossRef are notable non-profit organizations that operate DOI minting registries. 
 
-ANDS image here...  
+![Anatomy of a DOI](../fig/anatomy-of-a-doi.jpg)  
 
 ##PIDs are everywhere
 
-Image of connecting research objects from Datacite
+[Connecting Research Outputs](../fig/datacite-arxiv-crossref.png)
+
 https://support.datacite.org/docs/connecting-research-outputs
 
 
