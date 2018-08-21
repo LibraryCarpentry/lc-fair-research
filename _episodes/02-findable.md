@@ -66,6 +66,9 @@ DOIs are everywhere. Examples.
 
 https://support.datacite.org/docs/connecting-research-outputs
 
+Bullet points about the current state of linking...
+https://blog.datacite.org/citation-analysis-scholix-rda/
+
 
 ## Choosing the right repository
 
