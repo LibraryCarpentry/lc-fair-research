@@ -54,6 +54,17 @@ Data supporting this work are available in the GigaScience repository, GigaDB [1
 Reference:
 [14] Kole K, Baltissen M, Lindeboom R et al.   Supporting data for “Proteomic landscape of the primary somatosensory cortex upon sensory deprivation.” GigaScience Database  2017. http://doi.org/10.5524/100336 
 
+## PID 101 for Researchers (or: Resolving some PID myths)
+A PID is a „long lasting reference to a digital resource“
+There are different sorts of PIDs & different uses,(e.g. for articles, data, persons, organizations, …)
+PIDs are offered by organizations - Ask your institute/library
+You do NOT have to pay for PIDs (by yourself)!
+PIDs are mostly used for (persistent) citation – All published resources should have one
+A correct citation always includes a PID → look in your citation manager
+Metadata behind a PID are most important – please take care when providing them
+PIDs are not perfect (they are issued by organizations, aka humans!)
+PIDs are really useful & fun – they make yourself & your work more visible! 
+
 
 ## Anatomy of a PID  
 Digital object identifiers or DOIs are a common PID that used in the scholarly ecosystem. DataCite and CrossRef are notable non-profit organizations that operate DOI minting registries. 
@@ -159,6 +170,16 @@ Improve discoverability (through citation/linking mechanisms and indexing)
 Provide information on data deposit
 Allow for further (peer) review and quality assurance
 Offer the opportunity for further recognition and awards
+
+Articles in Data Journals 
+describing research data
+Containing information about data creation and collection, data qualities, functionalities
+Showing possibilities of re-using data
+Recommendation or provision of data deposit
+Discipline specific or generic data journals
+Examples
+Nature Scientific data 
+Biomedical Data Journal (BMDJ)
 
 Examples
 Nature Scientific data 
