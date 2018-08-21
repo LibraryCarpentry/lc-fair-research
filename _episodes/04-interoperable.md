@@ -10,6 +10,25 @@ keypoints:
 - "First key point."
 ---
 
+> ## For data & software to be interoperable:
+> I1. (meta)data use a formal, accessible, shared, and broadly applicable language for knowledge representation  
+> I2. (meta)data use vocabularies that follow FAIR principles  
+> I3. (meta)data include qualified references to other (meta)data
+{: .checklist}
+
+## Beyond the PDF
+Publishers, librarians, researchers, developers, funders, they have all been working towards a future where we can move beyond the PDF, from 'static and disparate data and knowledge representations to richly integrated content which grows and changes the more we learn." Research objects of the future will capture all aspects of scholarship: hypotheses, data, methods, results, presentations etc.) that are semantically enriched, interoperable and easily transmitted and comprehended.
+Attribution, Evaluation, Archiving, Impact 
+https://sites.google.com/site/beyondthepdf/
+
+Beyond the PDF has now grown into FORCE...
+Towards a vision where research will move from document- to knowledge-based information flows
+semantic descriptions of research data & their structures
+aggregation, development & teaching of subject-specific vocabularies, ontologies & knowledge graphs
+Paper of the Future
+https://www.authorea.com/users/23/articles/8762-the-paper-of-the-future to Jupyter Notebooks/Stencilia
+https://stenci.la/
+
 
 
 For scientists and repositories
@@ -25,10 +44,9 @@ clearly identify relationships between datasets in the metadata (e.g. “is new 
 request support regarding these tasks from the repositories in your field of study
 for software: follow established code style guides (thanks to @npch!)
 
-Vision: Research will move from document- to knowledge-based information flows
-semantic descriptions of research data & their structures
-aggregation, development & teaching of subject-specific vocabularies, ontologies & knowledge graphs
-several TIB groups are working towards this
+
+
+
 Data Science and Digital Libraries => (research) knowledge graph(s)
 Scientific Data Management
 Visual Analytics to expose information within videos as keywords => av.tib.eu
