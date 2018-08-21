@@ -83,6 +83,10 @@ Instrument IDs
 Ship cruises IDs
 Physical sample IDs,
 DMP IDs…
+videos 
+images 
+3D models 
+grey literature
 
 ![Connecting Research Outputs](../fig/datacite-arxiv-crossref.png)
 
