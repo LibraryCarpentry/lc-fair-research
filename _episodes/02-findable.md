@@ -69,6 +69,9 @@ DOIs refer to the objects not the location → remain valid
 DOIs are minted for research data, software and code, physical objects, grey literature  
 DOI-System is an internationally recognised and supported standard
 
+PIDs provide interoperable Metadata
+→ Automatic ORCID profile update when DOI is minted
+
 ## Connecting research outputs
 DOIs are everywhere. Examples.
 
@@ -83,6 +86,13 @@ https://support.datacite.org/docs/connecting-research-outputs
 Bullet points about the current state of linking...
 https://blog.datacite.org/citation-analysis-scholix-rda/
 
+
+## Provenance?
+Provenance means validation & credibility – a researcher should comply to good scientific practices and be sure about what should get a PID (and what not).
+Metadata is central to visibility and citability – metadata behind a PID should be provided with consideration.
+Policies behind a PID system ensure persistence in the WWW - point. At least metadata will be available for a long time.
+Machine readability will be an essential part of future discoverability – resources should be checked and formats should be adjusted (as far possible).
+Metrics (e.g. altmetrics) are supported by PID systems.
 
 ## Snapshot of DOI use
 TIB Survey 2017
