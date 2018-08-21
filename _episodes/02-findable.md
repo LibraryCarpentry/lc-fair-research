@@ -200,17 +200,19 @@ Articles in data journals allow authors to:
 - Offer the opportunity for further recognition and awards
 
 Examples:
-- [Nature Scientific data](https://www.nature.com/sdata/)
-published by Nature and established in 2013
-- Geoscience Data Journal - published by Wiley and established in 2012
-- Journal of Open Archaeology Data - published by Ubiquity and established in 2011
-- Biodiversity Data Journal - published by Pensoft and established in 2013.
-- Earth System Science Data - published by Copernicus Publications and established in 2009
+- [Nature Scientific data](https://www.nature.com/sdata/) - published by Nature and established in 2013
+- [Geoscience Data Journal](https://rmets.onlinelibrary.wiley.com/journal/20496060) - published by Wiley and established in 2012
+- [Journal of Open Archaeology Data](https://openarchaeologydata.metajnl.com/) - published by Ubiquity and established in 2011
+- [Biodiversity Data Journal](https://bdj.pensoft.net/) - published by Pensoft and established in 2013.
+- [Earth System Science Data](https://www.earth-system-science-data.net/) - published by Copernicus Publications and established in 2009
 
+Also, the following study discusses data journals in depth and reviews over 100 data journals:
+Candela, L. , Castelli, D. , Manghi, P. and Tani, A. (2015), Data Journals: A Survey. J Assn Inf Sci Tec, 66: 1747-1762. doi:[10.1002/asi.23358](https://doi.org/10.1002/asi.23358)
 
-Can you find another example not listed here (e.g. in a discipline)?
-
-Add AAS example http://iopscience.iop.org/journal/0067-0049/page/article-data as answer to quiz
+> ## How does your discipline share data
+>
+> Does your discipline have a data journal? Or some other mechanism to share data? For example, the American Astronomical Society (AAS) via the publisher IOP Physics offers a [supplment series](http://iopscience.iop.org/journal/0067-0049/page/article-data) as a way for astronomers to publish data. 
+{: .discussion}
 
 
 List recent publications re: benefits of data sharing / software sharing
