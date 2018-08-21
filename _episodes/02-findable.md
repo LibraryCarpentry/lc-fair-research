@@ -1,5 +1,5 @@
 ---
-title: "Improving the Findability of Research"
+title: "Findability"
 teaching: 0
 exercises: 0
 questions:
@@ -58,10 +58,23 @@ Reference:
 ## Anatomy of a PID  
 Digital object identifiers or DOIs are a common PID that used in the scholarly ecosystem. DataCite and CrossRef are notable non-profit organizations that operate DOI minting registries. 
 
-![Anatomy of a DOI](../fig/anatomy-of-a-doi.jpg)  
+Proxy
+Prefix
+Suffix
+
+![Anatomy of a DOI](../fig/anatomy-of-a-doi.jpg) 
+
+Persistent and unique identifier for objects in the digital environment
+DOIs refer to the objects not the location → remain valid 
+DOIs are minted for research data, software and code, physical objects, grey literature  
+DOI-System is an internationally recognised and supported standard
 
 ## Connecting research outputs
 DOIs are everywhere. Examples.
+
+Resource IDs (articles, data, software, …)
+Researcher IDs
+Organisation IDs, Funder IDs
 
 ![Connecting Research Outputs](../fig/datacite-arxiv-crossref.png)
 
@@ -71,13 +84,44 @@ Bullet points about the current state of linking...
 https://blog.datacite.org/citation-analysis-scholix-rda/
 
 
+## Snapshot of DOI use
+TIB Survey 2017
+1400 scientists in the natural sciences & engineering (across Germany)
+→ 70% of the researchers are using DOIs for journal publications
+ → less than 10% use DOIs for research data
+(have a look: data available at doi.org/10.22000/54) 
+
+Why?
+56% answered that they don’t know about the option to use DOIs for other publications (datasets, conference papers etc.) 
+57% stated no need for DOI counselling services
+40% of the questioned researchers need more information
+30% cannot see a benefit from a DOI
+
+
 ## Choosing the right repository
 
 Ask your colleagues & collaborators
 Look for institutional repository at your own institution
 
+determining the right repo for your reseearch
+data are kept safe in a secure environment
+data are regularly backed up and preserved (long-term) for future use
+data can be easily discovered by search engines and included in online catalogues
+intellectual property rights and licencing of data are managed 
+access to data can be administered and usage monitored
+the visibility of data can be enhanced
+enables more use and citation
+citation of data increases researchers scientific reputation
+
+Some recommendations:
+→ look for the usage of PIDs
+→ look for the usage of standards (DataCite, Dublin Core, discipline-specific metadata
+→ look for licences offered
+→ look for certifications (DSA / Core Trust Seal, DINI/nestor, WDS, …)
+
 Searching re3data w/ exercise
 https://www.re3data.org/
+Out of more than 2115 repository systems listed in re3data.org in July 2018, only 809 (less than 39 %!) state to provide a PID service, with 524 of them using the DOI system
 
 Search open access repos
 http://v2.sherpa.ac.uk/opendoar/
