@@ -132,19 +132,19 @@ https://schema.datacite.org/
 
 ## PID should be required, etc
 
-## Snapshot of DOI use
-TIB Survey 2017
-1400 scientists in the natural sciences & engineering (across Germany)
-→ 70% of the researchers are using DOIs for journal publications
- → less than 10% use DOIs for research data
-(have a look: data available at doi.org/10.22000/54) 
+## Publishing behaviour of researchers 
 
-Why?
-56% answered that they don’t know about the option to use DOIs for other publications (datasets, conference papers etc.) 
-57% stated no need for DOI counselling services
-40% of the questioned researchers need more information
-30% cannot see a benefit from a DOI
+According to:
 
+Technische Informationsbibliothek (TIB) (conducted by engage AG) (2017): Questionnaire and Dataset of the TIB Survey 2017 on information procurment and pubishing behaviour of researchers in the natural sciences and engineering. Technische Informationsbibliothek (TIB). DOI: [https://doi.org/10.22000/54](https://doi.org/10.22000/54)
+
+- responses from 1400 scientists in the natural sciences & engineering (across Germany)
+- 70% of the researchers are using DOIs for journal publications
+- less than 10% use DOIs for research data
+-- 56% answered that they don’t know about the option to use DOIs for other publications (datasets, conference papers etc.) 
+-- 57% stated no need for DOI counselling services
+-- 40% of the questioned researchers need more information
+-- 30% cannot see a benefit from a DOI
 
 ## Choosing the right repository
 
@@ -192,32 +192,28 @@ https://fairsharing.org/databases/
 Another method available to researchers to cite and give credit to research data is to author works in data journals or supplemental approaches used by publishers, societies, disciplines, and/or journals. 
 
 Articles in data journals allow authors to:
-Describe their research data (including information about process, qualities, etc)
-Explain how the data can be reused
-Improve discoverability (through citation/linking mechanisms and indexing)
-Provide information on data deposit
-Allow for further (peer) review and quality assurance
-Offer the opportunity for further recognition and awards
+- Describe their research data (including information about process, qualities, etc)
+- Explain how the data can be reused
+- Improve discoverability (through citation/linking mechanisms and indexing)
+- Provide information on data deposit
+- Allow for further (peer) review and quality assurance
+- Offer the opportunity for further recognition and awards
 
-Articles in Data Journals 
-describing research data
-Containing information about data creation and collection, data qualities, functionalities
-Showing possibilities of re-using data
-Recommendation or provision of data deposit
-Discipline specific or generic data journals
-Examples
-Nature Scientific data 
-Biomedical Data Journal (BMDJ)
+Examples:
+- [Nature Scientific data](https://www.nature.com/sdata/)
+published by Nature and established in 2013
+- Geoscience Data Journal - published by Wiley and established in 2012
+- Journal of Open Archaeology Data - published by Ubiquity and established in 2011
+- Biodiversity Data Journal - published by Pensoft and established in 2013.
+- Earth System Science Data - published by Copernicus Publications and established in 2009
 
-Examples
-Nature Scientific data 
-Biomedical Data Journal (BMDJ)
+
 Can you find another example not listed here (e.g. in a discipline)?
 
 Add AAS example http://iopscience.iop.org/journal/0067-0049/page/article-data as answer to quiz
 
 
-List recent publications re: benefits of data sharing / software shring
+List recent publications re: benefits of data sharing / software sharing
 
 Questions:
 Is FAIRSharing vs re3data comparison slide from TIB findability slides needed here?
