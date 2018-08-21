@@ -78,6 +78,11 @@ DOIs are everywhere. Examples.
 Resource IDs (articles, data, software, …)
 Researcher IDs
 Organisation IDs, Funder IDs
+Projects IDs
+Instrument IDs
+Ship cruises IDs
+Physical sample IDs,
+DMP IDs…
 
 ![Connecting Research Outputs](../fig/datacite-arxiv-crossref.png)
 
