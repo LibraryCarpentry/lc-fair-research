@@ -127,6 +127,11 @@ Policies behind a PID system ensure persistence in the WWW - point. At least met
 Machine readability will be an essential part of future discoverability – resources should be checked and formats should be adjusted (as far possible).
 Metrics (e.g. altmetrics) are supported by PID systems.
 
+## Rich Metadata
+https://schema.datacite.org/
+
+## PID should be required, etc
+
 ## Snapshot of DOI use
 TIB Survey 2017
 1400 scientists in the natural sciences & engineering (across Germany)
@@ -218,6 +223,7 @@ Questions:
 Is FAIRSharing vs re3data comparison slide from TIB findability slides needed here?
 Should we include recent thread about handle system vs DOIs in IRs (costs)
 Zenodo-GitHub linking is listed in another episode, right?
+Include guidance for Google schema indexing...
 
 Notes:  
 Note about authors being proactive and working with the journals/societies to improve papers referencing data, software...
