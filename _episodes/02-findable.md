@@ -54,6 +54,13 @@ Data supporting this work are available in the GigaScience repository, GigaDB [1
 Reference:
 [14] Kole K, Baltissen M, Lindeboom R et al.   Supporting data for “Proteomic landscape of the primary somatosensory cortex upon sensory deprivation.” GigaScience Database  2017. http://doi.org/10.5524/100336 
 
+A PID is
+Provenance
+Metadata
+Policies & Guarantees 
+Machine readability
+Metrics
+
 ## PID 101 for Researchers (or: Resolving some PID myths)
 A PID is a „long lasting reference to a digital resource“
 There are different sorts of PIDs & different uses,(e.g. for articles, data, persons, organizations, …)
@@ -69,9 +76,15 @@ PIDs are really useful & fun – they make yourself & your work more visible!
 ## Anatomy of a PID  
 Digital object identifiers or DOIs are a common PID that used in the scholarly ecosystem. DataCite and CrossRef are notable non-profit organizations that operate DOI minting registries. 
 
+International DOI Foundation (IDF) manages DOI-System 
+
 Proxy
 Prefix
 Suffix
+
+Metadata Store and DOI Fabrica
+
+DataCite e.V. maintains and operates the infrastructure for DOI registration
 
 ![Anatomy of a DOI](../fig/anatomy-of-a-doi.jpg) 
 
@@ -142,6 +155,16 @@ access to data can be administered and usage monitored
 the visibility of data can be enhanced
 enables more use and citation
 citation of data increases researchers scientific reputation
+Decision for or against a specific repository depends on various criteria, e.g.
+Data quality 
+Discipline
+Institutional requirements
+Reputation (researcher and/or repository)
+Visibility of research
+Legal terms and conditions
+Data value (FAIR Principles)
+Exit strategy (tested?)
+Certificate (based only on documents?)
 
 Some recommendations:
 → look for the usage of PIDs
@@ -189,6 +212,12 @@ Can you find another example not listed here (e.g. in a discipline)?
 Add AAS example http://iopscience.iop.org/journal/0067-0049/page/article-data as answer to quiz
 
 
+List recent publications re: benefits of data sharing / software shring
+
+Questions:
+Is FAIRSharing vs re3data comparison slide from TIB findability slides needed here?
+Should we include recent thread about handle system vs DOIs in IRs (costs)
+Zenodo-GitHub linking is listed in another episode, right?
 
 Notes:  
 Note about authors being proactive and working with the journals/societies to improve papers referencing data, software...
