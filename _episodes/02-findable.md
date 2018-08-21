@@ -10,11 +10,12 @@ keypoints:
 - "First key point."
 ---
 
-To be Findable:  
-- F1. (meta)data are assigned a globally unique and eternally persistent identifier or PID
-- F2. data are described with rich metadata
-- F3. (meta)data are registered or indexed in a searchable resource
-- F4. metadata specify the data identifier  
+> ## For data & software to be findable:
+> F1. (meta)data are assigned a globally unique and eternally persistent identifier or PID
+> F2. data are described with rich metadata
+> F3. (meta)data are registered or indexed in a searchable resource
+> F4. metadata specify the data identifier  
+{: .checklist}
 
 Your institution’s/repository’s role:  
 - Assign a globally unique PID upon publication (or draft upload) 
