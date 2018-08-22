@@ -11,9 +11,9 @@ keypoints:
 ---
 
 > ## For data & software to be findable:
-> F1. (meta)data are assigned a globally unique and eternally persistent identifier or PID
-> F2. data are described with rich metadata
-> F3. (meta)data are registered or indexed in a searchable resource
+> F1. (meta)data are assigned a globally unique and eternally persistent identifier or PID  
+> F2. data are described with rich metadata  
+> F3. (meta)data are registered or indexed in a searchable resource  
 > F4. metadata specify the data identifier  
 {: .checklist}
 
