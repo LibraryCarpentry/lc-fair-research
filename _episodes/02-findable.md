@@ -1,5 +1,5 @@
 ---
-title: "Findability"
+title: "Findable"
 teaching: 0
 exercises: 0
 questions:
@@ -10,7 +10,7 @@ keypoints:
 - "First key point."
 ---
 
-> ## For data & software to be findable:
+> ## For data & software to be findable:  
 > F1. (meta)data are assigned a globally unique and eternally persistent identifier or PID  
 > F2. data are described with rich metadata  
 > F3. (meta)data are registered or indexed in a searchable resource  
