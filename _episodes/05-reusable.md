@@ -59,10 +59,19 @@ https://github.com/matiassingers/awesome-readme
 Different Format Types 
 https://data.library.virginia.edu/data-management/plan/format-types/
 
-RDA Disciplinary Data Formats
-Arts & Humanities to General Data Formats: http://rd-alliance.github.io/metadata-directory/standards/
+## Disciplinary Data Formats
 
-Vocabularies
+Many disciplines have developed formal metadata standards that enable re-use of data; however, these standards are not universal and often it requires background knowledge to indentify, contextualize, and interpret the underlying data. Interoperability between disciplines is still a challenge based on the continued use of custom metadata schmes, and the development of new, incompatiable standards. Thankfully, DataCite is providing a common, overarching metadata standard across disciplinary datasets, albeit at a generic vs granular level. 
+
+In the meantime, the Research Data Alliance (RDA) Metadata Standards Directory - Working Group developed a collaborative, open directory of metadata standards, applicable to scientific data, to help the research community learn about metadata standards, controlled vocabularies, and the underlying elements across the different disciplines, to potentially help with mapping data elements from different sources.
+
+Exercise/Quiz?  
+
+[Metadata Standards Directory](http://rd-alliance.github.io/metadata-directory/standards/)  
+Features: Standards, Extensions, Tools, and Use Cases
+
+
+## Research vocabularies
 Research Vocabularies Australia https://vocabs.ands.org.au/
 AGROVOC & VocBench http://aims.fao.org/vest-registry/vocabularies/agrovoc
 Dimensions Fields of Research https://dimensions.freshdesk.com/support/solutions/articles/23000012844-what-are-fields-of-research-
