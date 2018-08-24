@@ -1,6 +1,6 @@
 # Library Carpentry
 
-The Library Carpentry module '[FAIR Data for Librarians](https://librarycarpentry.github.io/lc-research-data/)'.
+The Library Carpentry module '[Library Carpentry: FAIR Data & Software](https://librarycarpentry.github.io/lc-research-data/)'.
 
 ## Background
 
@@ -22,6 +22,8 @@ There are many ways of contributing to Library Carpentry:
 All participants should agree to abide by the [Software Carpentry Code of Conduct](http://software-carpentry.org/conduct/).
 
 ## Authors
+
+The lesson is based on the first [FAIR Data & Software Carpentries Workshop](https://tibhannover.github.io/2018-07-09-FAIR-Data-and-Software/) which was held at TIB Hannover on July 9-13 and organized by Angelina Kraft and Katrin Leinweber.
 
 Library Carpentry is authored and maintained by the [community](https://github.com/data-lessons/library-shell/network/members).
 
