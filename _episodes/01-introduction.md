@@ -43,21 +43,20 @@ We all win when the outputs of research are properly managed, preserved and reus
 
 Research is increasingly dependent on computational support and yet there are still many bottlenecks in the process. The overall aim of FAIR is to cut down on the inefficient processes in research by taking advantage of linked resources and the exchange of data so that all stakeholders in the research ecosystem, can automate repetitive, boring, error-prone tasks.
 
-## Guide to the Principles and Sub-Principles
-
-TIB Hannover has provided the following FAIR guide with examples:
-[TIB Hannover FAIR Principles Guide](https://blogs.tib.eu/wp/tib/2017/09/12/the-fair-data-principles-for-research-data)
-
 ## Examples of Library Services implementing the FAIR principles
 
-If your local data repository shares metadata with other aggregators, it's F for Findable.
-If you advocate for researchers to use ORCIDs and seek DOIs for research data outputs, it's F for Findable
-If you r institution mints DOIs for research datasets... that's A for Accessible.
-If your institutional data repository enables metadata for harvest by an aggregator, that's I for Interoperable.
-IF you provide advice and consultation services for choosing licences for research data, that's R for Reusable
+  * If your local data repository shares metadata with other aggregators, it's F for Findable.
+  * If you advocate for researchers to use ORCIDs and seek DOIs for research data outputs, it's F for Findable
+  * If you r institution mints DOIs for research datasets... that's A for Accessible.
+  * If your institutional data repository enables metadata for harvest by an aggregator, that's I for Interoperable.
+  * If you provide advice and consultation services for choosing licences for research data, that's R for Reusable
 
+## Further reading following this lesson
 
-## FAIR Data Action Plan
+TIB Hannover has provided the following FAIR guide with examples:
+[TIB Hannover FAIR Principles Guide](https://blogs.tib.eu/wp/tib/2017/09/12/the-fair-data-principles-for-research-data) 
+
+FAIR Data Action Plan
 https://github.com/FAIR-Data-EG/Action-Plan 
 
 
@@ -66,9 +65,10 @@ https://github.com/FAIR-Data-EG/Action-Plan
 Group exercise
 Use an etherpad / whiteboard
 
-Does your institutional data management policy refer to FAIR principles?
+* Does your institutional data management policy refer to FAIR principles?
 
-If you have a data management planning tool (eg DMP online) go through the mandatory fields and identify where there are FAIR teaching moments.
+* If you have a data management planning tool (eg DMP online) go through the mandatory fields and identify where there are FAIR teaching moments.
 
-Compile a list of research management tools that your institution provides access to and brainstorm examples where these tools embody the FAIR data principles.
+* Compile a list of research management tools that your institution provides access to and brainstorm examples where these tools embody the FAIR data principles.
 
+* Use the [FAIR data self assessment tool] (https://www.ands.org.au/working-with-data/fairdata/fair-data-self-assessment-tool) to help frame your answers.
