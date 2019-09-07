@@ -1,36 +1,40 @@
-# Library Carpentry
+# Maintainers for Library Carpentry: FAIR Data & Software
 
-The Library Carpentry module '[Library Carpentry: FAIR Data & Software](https://librarycarpentry.github.io/lc-research-data/)'.
+- [Chris Erdmann](https://github.com/libcce) (Lead) 
+- [Liz Stokes](https://github.com/ragamouf)
+- [Kristina Hettne](https://github.com/kmhettne)
+- [Carmi Cronje](https://github.com/ccronje)
 
-## Background
+Lesson Maintainers communication is via the [team site (not available)]().
 
-Library Carpentry is a software skills training programme aimed at library and information professions. 
-It builds on the work of [Software Carpentry](http://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/).
+## Library Carpentry
 
-Library Carpentry is in the commons and for the commons. It is not tied to any institution of person. For more information on Library Carpentry, see our website [librarycarpentry.github.io](http://librarycarpentry.github.io/).
+[Library Carpentry](https://librarycarpentry.org) is a software and data skills training programme for people working in library- and information-related roles. It builds on the work of [Software Carpentry](http://software-carpentry.org/) and [Data Carpentry](http://www.datacarpentry.org/). Library Carpentry is an official Lesson Program of [The Carpentries](https://carpentries.org/).
 
-## Contribution
+## License
 
-There are many ways of contributing to Library Carpentry:
+All Software, Data, and Library Carpentry instructional material is made available under the [Creative Commons Attribution
+license](https://github.com/LibraryCarpentry/lc-fair-research/blob/gh-pages/LICENSE.md).
 
-- Join our [Gitter discussion forum](https://gitter.im/LibraryCarpentry/).
-- Follow updates on [Twitter](https://twitter.com/LibCarpentry).
-- Make a suggestion or correct an error by [raising an Issue](https://github.com/data-lessons/library-shell/issues).
+## Contributing
+
+There are many ways to discuss and contribute to Library Carpentry lessons. Visit the lesson [discussion page](https://librarycarpentry.org/lc-fair-research/discuss/index.html) to learn more. Also see [Contributing](https://github.com/LibraryCarpentry/lc-fair-research/blob/gh-pages/CONTRIBUTING.md).
 
 ## Code of Conduct
 
-All participants should agree to abide by the [Software Carpentry Code of Conduct](http://software-carpentry.org/conduct/).
+All participants should agree to abide by The Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html).
 
 ## Authors
 
-The lesson is based on the first [FAIR Data & Software Carpentries Workshop](https://tibhannover.github.io/2018-07-09-FAIR-Data-and-Software/) which was held at TIB Hannover on July 9-13 and organized by Angelina Kraft and Katrin Leinweber.
-
-Library Carpentry is authored and maintained by the [community](https://github.com/data-lessons/library-shell/network/members).
+Library Carpentry is authored and maintained through issues, commits, and pull requests from the community.
 
 ## Citation
 
-Please cite as:
+Cite as:
 
-Library Carpentry. F. June 2016. http://data-lessons.github.io/library-shell/.
+Library Carpentry. September 2019. https://librarycarpentry.org/lc-fair-research.
 
-# 
+## Checking and Previewing the Lesson
+
+To check and preview a lesson locally, see [http://carpentries.github.io/lesson-example/07-checking/index.html](http://carpentries.github.io/lesson-example/07-checking/index.html).
+
