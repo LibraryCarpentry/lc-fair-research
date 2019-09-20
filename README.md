@@ -5,7 +5,7 @@
 - [Kristina Hettne](https://github.com/kmhettne)
 - [Carmi Cronje](https://github.com/ccronje)
 
-Lesson Maintainers communication is via the [team site (not available)]().
+Lesson Maintainers communication is via the [team site](https://github.com/orgs/LibraryCarpentry/teams/lc-fair-maintainers).
 
 ## Library Carpentry
 
