@@ -19,7 +19,7 @@ DANS
 https://www.surveymonkey.com/r/fairdat
 
 ARDC
-https://www.ands-nectar-rds.org.au/fair-tool
+https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-tool/
 
 DTL FAIRifier
 https://github.com/DTL-FAIRData/FAIRifier
