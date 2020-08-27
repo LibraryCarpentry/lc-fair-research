@@ -5,7 +5,12 @@ exercises: 0
 questions:
 - "Key question"
 objectives:
-- "First objective."
+- "Demystify the term 'interoperable'"
+- "Identify widely used metadata standards for research, including generic and discipline-focussed examples"
+- "Explain the role of controlled vocabularies in enabling FAIR data"
+- "Discuss machine readability aspects of FAIR data"
+- "Understand how linked data standards and conventions for metadata schema documentation relate to interoperability"
+- "Explore controlled vocabulary tools."
 keypoints:
 - "First key point."
 ---
