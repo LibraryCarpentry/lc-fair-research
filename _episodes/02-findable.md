@@ -3,7 +3,8 @@ title: "Findable"
 teaching: 0
 exercises: 0
 questions:
-- "Key question"
+- "What is a persistent identifier or PID?"
+- "What types of PIDs are there?"
 objectives:
 - "First objective."
 keypoints:
@@ -17,84 +18,55 @@ keypoints:
 > F4. metadata specify the data identifier  
 {: .checklist}
 
-Your institution’s/repository’s role:  
-- Assign a globally unique PID upon publication (or draft upload) 
-- Provide metadata schema in human- & machine-readable format (PID, author names, subject areas, etc)
-- Support structured input of metadata (submission forms or XML schema)
-- Index (meta)data to enable effective searching
-- Allow metadata upload & assign corresponding PID
+## Persistent identifiers (PIDs) 101
 
-Your role as a researcher:  
-- Check datasets that you use for PIDs & cite them
-- Ensure that your datasets get published with PIDs
-- Choose repositories that automate PID registration
-- Report this requirement to repositories that don’t assign PIDs
-- Add rich metadata (describe the dataset’s context, quality, condition & characteristics)
-- Should be understandable by researchers from different disciplines (ask a friend to proofread)
+A persistent identifier (PID) is a long-lasting reference to a resource:
 
-## PIDs in the wild
+- Designed to provide access to information about a resource even if the resource it describes has moved location on the web
+- Requires technical, governance and community to provide the persistence
+- There are many different PIDs available for many different types of scholarly resources e.g. articles, data, samples, authors, grants, projects, conference papers and so much more
 
-To start, we can have a look at the following paper which includes a note regarding the availability of the supporting data and link (in the form of a digital object identifier or DOI) to the reference:  
+## Different types of PIDs
 
-include img of paper screenshot...  
+PIDs have community support, organizational commitment and technical infrastructure to ensure persistence of identifiers. They often are created to respond to a community need. For instance, the International Standard Book Number or ISBN was created to assign unique numbers to books, is used by book publishers, and is managed by the International ISBN Agency. Another type of PID, the Open Researcher and Contributor ID or ORCID (iD) was created to help with author disambiguation by providing unique identifiers for authors. The [ODIN Project identifies additional PIDs](https://project-thor.readme.io/docs/project-glossary) along with [Wikipedia's page on PIDs](https://en.wikipedia.org/wiki/Persistent_identifier).
 
-Paper:  
-Koen Kole, Rik G.H. Lindeboom, Marijke P.A. Baltissen, Pascal W.T.C. Jansen, Michiel Vermeulen, Paul Tiesinga, Tansu Celikel (2017):
-Proteomic landscape of the primary somatosensory cortex upon sensory deprivation, GigaScience, Volume 6, Issue 10, 1 October 2017, Pages 1–10. DOI https://doi.org/10.1093/gigascience/gix082
+## Digital Object Identifiers (DOIs)
 
-Quiz  
-Do you see the note?  
-Can you think about other aspects of the paper that can benefit from PIDs?  
+The DOI is a common identifier used for academic, professional, and governmental information such as articles, datasets, reports, and other supplemental information. The [International DOI Foundation (IDF)](https://www.doi.org/) is the agency that oversees DOIs. [CrossRef](https://www.crossref.org/) and [Datacite](https://datacite.org/) are two prominent not-for-profit registries that provide services to create or mint DOIs. Both have membership models where their clients are able to mint DOIs distinguished by their prefix. For example, DataCite features a [statistics page](https://stats.datacite.org/) where you can see registrations by members.
 
+## Anatomy of a DOI
 
-Note in the paper:
-“Availability of the supporting data
-Data supporting this work are available in the GigaScience repository, GigaDB [14]. The raw mass spectrometry proteomics data have been deposited in the ProteomeXchange Consortium via the PRIDE partner repository [15] with the dataset identifier PXD005971”
+A DOI has three main parts:
 
-Reference:
-[14] Kole K, Baltissen M, Lindeboom R et al.   Supporting data for “Proteomic landscape of the primary somatosensory cortex upon sensory deprivation.” GigaScience Database  2017. http://doi.org/10.5524/100336 
-
-A PID is
-Provenance
-Metadata
-Policies & Guarantees 
-Machine readability
-Metrics
-
-## PID 101 for Researchers (or: Resolving some PID myths)
-A PID is a „long lasting reference to a digital resource“
-There are different sorts of PIDs & different uses,(e.g. for articles, data, persons, organizations, …)
-PIDs are offered by organizations - Ask your institute/library
-You do NOT have to pay for PIDs (by yourself)!
-PIDs are mostly used for (persistent) citation – All published resources should have one
-A correct citation always includes a PID → look in your citation manager
-Metadata behind a PID are most important – please take care when providing them
-PIDs are not perfect (they are issued by organizations, aka humans!)
-PIDs are really useful & fun – they make yourself & your work more visible! 
-
-
-## Anatomy of a PID  
-Digital object identifiers or DOIs are a common PID that used in the scholarly ecosystem. DataCite and CrossRef are notable non-profit organizations that operate DOI minting registries. 
-
-International DOI Foundation (IDF) manages DOI-System 
-
-Proxy
-Prefix
-Suffix
-
-Metadata Store and DOI Fabrica
-
-DataCite e.V. maintains and operates the infrastructure for DOI registration
+- Proxy or DOI resolver service
+- Prefix which is unique to the registrant or member
+- Suffix, a unique identifier assigned locally by the registrant to an object
 
 ![Anatomy of a DOI](../fig/anatomy-of-a-doi.jpg) 
 
-Persistent and unique identifier for objects in the digital environment
-DOIs refer to the objects not the location → remain valid 
-DOIs are minted for research data, software and code, physical objects, grey literature  
-DOI-System is an internationally recognised and supported standard
+In the example above, the prefix is used by the Australian National Data Service (ANDS) now called the Australia Research Data Commons (ARDC) and the suffix is a unique identifier for an object at Griffith... DataCite provides DOI [display guidance](https://support.datacite.org/docs/datacite-doi-display-guidelines
+) so that they are easy to recognize and use, for both humans and machines.
 
-PIDs provide interoperable Metadata
-→ Automatic ORCID profile update when DOI is minted
+> ## Challenge
+> arXiv is a preprint repository for physics, math, computer science and related disciplines. 
+> It allows researchers to share and access their work before it is formally published. 
+> Visit the arXiv new papers page for [Machine Learning](https://arxiv.org/list/cs.LG/recent). 
+> Choose any paper by clicking on the 'pdf' link next to it. Now use <kbd>control</kbd> + <kbd>F</kbd> or <kbd>command</kbd> + <kbd>F</kbd> and search for 'http'. Did the author use DOIs for their data and software?
+> 
+> > ## Solution
+> > Authors will often link to platforms such as GitHub where they have shared their software and/or they will link to their website where they are hosting the data used in the paper. The danger here is that platforms like GitHub and personal websites are not permanent. Instead, authors can use repositories to deposit and preserve their data and software while minting a DOI. Links to software sharing platforms or personal websites might move but DOIs will always resolve to information about the software and/or data. See DataCite's [Best Practices for a Tombstone Page](https://support.datacite.org/docs/tombstone-pages).
+> {: .solution}
+{: .challenge}
+
+## Rich Metadata
+
+More and more services are using common schemas such as DataCite's Metadata Schema or [Schema.org](https://Schema.org) to foster greater use and discovery. A schema provides an overall structure for the metadata and describes core metadata properties. While DataCite's Metadata Schema is more general, there are discipline specific schemas such as [Data Documentation Initiative (DDI) and Darwin Core](https://en.wikipedia.org/wiki/Metadata_standard). 
+
+Thanks to schemas, the process of adding metadata has been standardised to some extent but there is still room for error. For instance, DataCite [reports](https://blog.datacite.org/citation-analysis-scholix-rda/) that links between papers and data are still very low. Publishers and authors are missing this opportunity. 
+
+Challenges:
+Automatic ORCID profile update when DOI is minted
+RelatedIdentifiers linking papers, data, software in Zenodo
 
 ## Connecting research outputs
 DOIs are everywhere. Examples.
@@ -130,7 +102,6 @@ Metrics (e.g. altmetrics) are supported by PID systems.
 ## Rich Metadata
 https://schema.datacite.org/
 
-## PID should be required, etc
 
 ## Publishing behaviour of researchers 
 
@@ -225,3 +196,5 @@ Include guidance for Google schema indexing...
 
 Notes:  
 Note about authors being proactive and working with the journals/societies to improve papers referencing data, software...
+
+Tombstone

@@ -10,8 +10,11 @@
 carpentry: "lc"
 
 # Overall title for pages.
-title: "Library Carpentry: Findable, Accessible, Interoperable, and Reusable (FAIR) Data and Software"
+title: "Library Carpentry: FAIR Data and Software"
 
+# Life cycle stage of the lesson
+# possible values: "pre-alpha", "alpha", "beta", "stable"
+life_cycle: "pre-alpha"
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
