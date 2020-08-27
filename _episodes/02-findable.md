@@ -10,6 +10,7 @@ objectives:
 - "Articulate what metadata is and how metadata makes data findable"
 - "Give an example of rich metadata for a dataset"
 - "Understand how and where to find data discovery platforms"
+- "Articulate the role of data repositories in enabling FAIR data"
 keypoints:
 - "First key point."
 ---
