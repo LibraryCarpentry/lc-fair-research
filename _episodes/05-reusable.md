@@ -5,7 +5,10 @@ exercises: 0
 questions:
 - "Key question"
 objectives:
-- "First objective."
+- "Explain machine readability in terms of file naming conventions and providing provenance metadata"
+- "Explain how data citation works in practice"
+- "Understand key components of a data citation"
+- "Explore domain-relevant community standards including metadata standards"
 keypoints:
 - "First key point."
 ---
