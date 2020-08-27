@@ -5,7 +5,10 @@ exercises: 0
 questions:
 - "Key question"
 objectives:
-- "First objective."
+- "Understand what a protocol is"
+- "Understand authentication protocols and their role in FAIR" 
+- "Articulate the value of landing pages"
+- "Explain closed, open and mediated access to data"
 keypoints:
 - "First key point."
 ---
