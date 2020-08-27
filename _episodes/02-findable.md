@@ -6,11 +6,11 @@ questions:
 - "What is a persistent identifier or PID?"
 - "What types of PIDs are there?"
 objectives:
-- "Explain what persistent identifiers are and how these enable FAIR data"
+- "Explain what globally unique, persistent, resolvable identifiers are and how they make data and metadata findable"
 - "Articulate what metadata is and how metadata makes data findable"
-- "Give an example of rich metadata for a dataset"
+- "Articulate how metadata can be explicitly linked to data and vice versa"
 - "Understand how and where to find data discovery platforms"
-- "Articulate the role of data repositories in enabling FAIR data"
+- "Articulate the role of data repositories in enabling findable data"
 keypoints:
 - "First key point."
 ---
