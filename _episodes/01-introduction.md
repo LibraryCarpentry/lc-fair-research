@@ -3,11 +3,16 @@ title: "Introduction"
 teaching: 0
 exercises: 0
 questions:
-- "Key question"
+- 'What does the acronym "FAIR" stand for, and what does it mean?'
+- "How can library services contribute to FAIR research?"
 objectives:
-- "First objective."
+- "Articulate the purpose and value of making research FAIR"
+- "Understand that library services impact various parts of the research lifecycle"
 keypoints:
-- "First key point."
+- The FAIR principles set out how to make data more usable, by humans and machines,
+  by making it Findable, Accessible, Interoperable and Reusable.
+- Librarians have key expertise in information management that can help researchers
+  navigate the process of making their research more FAIR
 ---
 
 ## Goals of this lesson:
