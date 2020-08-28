@@ -70,12 +70,8 @@ DataCite offers [statistics](https://stats.datacite.org/) where the failure to r
 If a DOI is no longer available and the data center does not have the resources to create a tombstone page, DataCite provides a generic [tombstone page](https://support.datacite.org/docs/tombstone-pages).
 
 **See the following tombstone examples:**
-
-Zenodo tombstone:
-https://zenodo.org/record/1098445
-
-Figshare tombstone:
-https://figshare.com/articles/Climate_Change/1381402
+- Zenodo tombstone: [https://zenodo.org/record/1098445](https://zenodo.org/record/1098445)
+- Figshare tombstone: [https://figshare.com/articles/Climate_Change/1381402](https://figshare.com/articles/Climate_Change/1381402)
 
 ## Discussion of tombstones
 
