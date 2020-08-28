@@ -73,7 +73,7 @@ Use an etherpad / whiteboard
 * Does your institutional data management policy refer to FAIR principles?
 
 * If you have a data management planning tool (eg DMP online) go through the mandatory fields and identify where there are FAIR teaching moments.
-
+x
 * Compile a list of research management tools that your institution provides access to and brainstorm examples where these tools embody the FAIR data principles.
 
 * Use the [FAIR data self assessment tool] (https://www.ands.org.au/working-with-data/fairdata/fair-data-self-assessment-tool) to help frame your answers.
