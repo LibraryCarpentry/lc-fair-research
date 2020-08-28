@@ -47,12 +47,13 @@ Thankfully, a number of research systems are now integrating ORCID into their au
 ## Exercise to create ORCID account and authenticate via Zenodo
  
 ## Understanding whether something is open, free, and universally implementable
-ORCID features a principles page where we can assess where it lies on the spectrum of these criteria. Can you identify statements that speak to these conditions: open, free, and universally implemetable?
+ORCID features a [principles page](https://orcid.org/about/what-is-orcid/principles) where we can assess where it lies on the spectrum of these criteria. Can you identify statements that speak to these conditions: open, free, and universally implemetable?
  
 Answers:
 - ORCID is a non-profit that collects fees from its members to sustain its operations
 - [Creative Commons CC0 1.0 Universal (CC0)](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal) license releases data into the public domain, or otherwise grants permission to use it for any purpose
 - It is open to any organization and transcends borders
+
 Challenge Questions:
 - Where can you download the freely available data?
 - How does ORCID solicit community input outside of its governance?
