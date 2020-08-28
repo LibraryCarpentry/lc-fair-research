@@ -81,7 +81,3 @@ If a DOI is no longer available and the data center does not have the resources 
 
 ## Discussion of tombstones
 
-## Lessons to teach in connection with this section and exercises
-[Software Carpentry: Version Control with Git](https://swcarpentry.github.io/git-novice/) or [Library Carpentry: Intro to Git](https://librarycarpentry.github.io/lc-git/)
-[Making your Code Citeable](https://guides.github.com/activities/citable-code/)
-Does an exercise or lesson exist that we can point to involving Software Heritage?
