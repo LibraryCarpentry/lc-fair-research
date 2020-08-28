@@ -79,7 +79,3 @@ https://figshare.com/articles/Climate_Change/1381402
 
 ## Discussion of tombstones
 
-## Lessons to teach in connection with this section and exercises
-[Software Carpentry: Version Control with Git](https://swcarpentry.github.io/git-novice/) or [Library Carpentry: Intro to Git](https://librarycarpentry.github.io/lc-git/)
-[Making your Code Citeable](https://guides.github.com/activities/citable-code/)
-Does an exercise or lesson exist that we can point to involving Software Heritage?
