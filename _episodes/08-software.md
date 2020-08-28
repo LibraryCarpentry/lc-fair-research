@@ -21,6 +21,6 @@ The objective of this lesson is to get learners up to speed on accepted best pra
 ## Resources
 
 As starting points, we have the following resources: 
-- a position paper: https://content.iospress.com/articles/data-science/ds190026
+- a position paper: https://doi.org/10.3233/DS-190026
 - a FAIR Software guide, with 5 recommendations: https://fair-software.nl/ 
 

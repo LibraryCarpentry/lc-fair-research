@@ -52,7 +52,7 @@ For others to reuse your research, it is important to include a README file and 
 It is also good practice to include README files to describe how the data was collected, processed, and analyzed. In other words, README files help others correctly interpret and reanalyze your data. A README file can include file names/directory structure, glossary/definitions of acronyms/terms, description of the parameters/variables and units of measurement, report precision/accuracy/uncertainty in measurements, standards/calibrations used, environment/experimental conditions, quality assurance/quality control applied, known problems, research date information, description of relationships/dependencies, additional resources/references, methods/software/data used, example records, and other supplemental information. 
 
 Dryad README file example:
-https://datadryad.org//resource/doi:10.5061/dryad.j512f21p
+<https://doi.org/10.5061/dryad.j512f21p>
 
 Awesome README list (for software):
 https://github.com/matiassingers/awesome-readme
