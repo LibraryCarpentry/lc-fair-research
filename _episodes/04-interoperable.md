@@ -3,7 +3,9 @@ title: "Interoperable"
 teaching: 0
 exercises: 0
 questions:
-- "Key question"
+- What does interoperability mean?
+- What is a controlled vocabulary, a metadata schema and linked data?
+- How do I describe data so that humans and computers can understand?
 objectives:
 - "Explain what makes data and software (more) interoperable for machines"
 - "Identify widely used metadata standards for research, including generic and discipline-focussed examples"
