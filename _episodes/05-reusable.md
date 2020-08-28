@@ -114,3 +114,6 @@ Reference Management w/ Zotero or other
 demo: import Zenodo.org/record/1308061 into Zotero
 demo: RStudio > Packages > Update, run PANGAEA example, then install updates
 https://tibhannover.github.io/2018-07-09-FAIR-Data-and-Software/FAIR-remix-PANGAEA/index.html
+
+Useful content for Licenses
+Note: TIB Hannover Slides https://docs.google.com/presentation/d/1mSeanQqO0Y2khA8KK48wtQQ_JGYncGexjnspzs7cWLU/edit#slide=id.g3a64c782ff_1_138
