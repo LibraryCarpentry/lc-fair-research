@@ -49,6 +49,7 @@ Thankfully, a number of research systems are now integrating ORCID into their au
 4. Go to [linked accounts](https://zenodo.org/account/settings/linkedaccounts/) and click the Connect button next to ORCID.
 
 Next time you log into Zenodo you will be able to 'Log in with ORCID':
+
 ![Zenodo login with ORCID and GitHub authentication](https://annefou.github.io/jupyter_dashboards/images/zenodo_login.png)
  
 ## Understanding whether something is open, free, and universally implementable
