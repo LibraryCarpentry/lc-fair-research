@@ -5,14 +5,13 @@ exercises: 0
 questions:
 - "Key question"
 objectives:
-- "Demystify the term 'interoperable'"
+- "Explain what makes data and software (more) interoperable for machines"
 - "Identify widely used metadata standards for research, including generic and discipline-focussed examples"
-- "Explain the role of controlled vocabularies in enabling FAIR data"
-- "Discuss machine readability aspects of FAIR data"
+- "Explain the role of controlled vocabularies for encoding data and for annotating metadata in enabling interoperability"
 - "Understand how linked data standards and conventions for metadata schema documentation relate to interoperability"
-- "Explore controlled vocabulary tools."
 keypoints:
-- "First key point."
+- "Understand that FAIR is about both humans and machines understanding data."
+- "Interoperability means choosing a data format or knowledge representation language that helps machines to understand the data."
 ---
 
 > ## For data & software to be interoperable:
