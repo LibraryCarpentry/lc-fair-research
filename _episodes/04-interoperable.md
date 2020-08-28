@@ -26,6 +26,18 @@ keypoints:
 
 Shared understanding of concepts, for humans as well as machines.
 
+### What does it mean to be machine readable vs human readable?
+
+According to the [Open Data Handbook](http://opendatahandbook.org/glossary/en/):
+
+> *Human Readable*  
+> "Data in a format that can be conveniently read by a human. Some human-readable formats, such as PDF, are not machine-readable as they are not structured data, i.e. the representation of the data on disk does not represent the actual relationships present in the data."
+
+> *Machine Readable*  
+> "Data in a data format that can be automatically read and processed by a computer, such as CSV, JSON, XML, etc. Machine-readable data must be structured data. Compare human-readable.
+> Non-digital material (for example printed or hand-written documents) is by its non-digital nature not machine-readable. But even digital material need not be machine-readable. For example, consider a PDF document containing tables of data. These are definitely digital but are not machine-readable because a computer would struggle to access the tabular information - even though they are very human readable. The equivalent tables in a format such as a spreadsheet would be machine readable.
+> As another example scans (photographs) of text are not machine-readable (but are human readable!) but the equivalent text in a format such as a simple ASCII text file can machine readable and processable."
+
 
 > Software uses community accepted standards and platforms, making it possible for users to run the software.
 [Top 10 FAIR things for research software][10FTRS]
@@ -34,7 +46,14 @@ Shared understanding of concepts, for humans as well as machines.
 
 ## Describing data and software with shared, controlled vocabularies
 
+See
+- <https://librarycarpentry.org/Top-10-FAIR//2018/12/01/research-data-management/#thing-8-controlled-vocabulary>
+- <https://librarycarpentry.org/Top-10-FAIR//2019/09/06/astronomy/#thing-6-terminology>
+- <https://librarycarpentry.org/Top-10-FAIR//2018/12/01/historical-research/#thing-6-controlled-vocabularies-and-ontologies>
+
 ## Representing knowledge in data and software
+
+See <https://librarycarpentry.org/Top-10-FAIR//2018/12/01/historical-research/#thing-5-data-structuring-and-organisation>.
 
 ### Beyond the PDF
 Publishers, librarians, researchers, developers, funders, they have all been working towards a future where we can move beyond the PDF, from 'static and disparate data and knowledge representations to richly integrated content which grows and changes the more we learn." Research objects of the future will capture all aspects of scholarship: hypotheses, data, methods, results, presentations etc.) that are semantically enriched, interoperable and easily transmitted and comprehended.
@@ -49,10 +68,9 @@ Paper of the Future
 https://www.authorea.com/users/23/articles/8762-the-paper-of-the-future to Jupyter Notebooks/Stencilia
 https://stenci.la/
 
-For scientists and repositories
+### Knowledge representation languages
 provide machine-readable (meta)data with a well-established formalism 
 structured, using discipline-established vocabularies / ontologies / thesauri (RDF extensible knowledge representation model, OWL, JSON LD, schema.org)
-support referencing metadata fields between datasets via a  schema (relatedIdentifer, relationType)
 offer (meta)data ingest from relevant sources (Document Information Dictionary or Extensible Metadata Platform from PDF)
 provide as precise & complete metadata as possible
 look for metrics to evaluate the FAIRness of a controlled vocabulary / ontology / thesaurus 
@@ -64,6 +82,7 @@ for software: follow established code style guides (thanks to @npch!)
 
 ## Adding qualified references among data and software
 
+support referencing metadata fields between datasets via a schema (relatedIdentifer, relationType)
 
 Data Science and Digital Libraries => (research) knowledge graph(s)
 Scientific Data Management
@@ -107,6 +126,8 @@ Exercise
 Python & R Carpentries lessons
 
 ## Linked Data
+
+[Top 10 FAIR things: Linked Open Data](https://librarycarpentry.org/Top-10-FAIR//2019/09/05/linked-open-data/)
 
 Linked data example
 Triples - RDF - SPARQL
