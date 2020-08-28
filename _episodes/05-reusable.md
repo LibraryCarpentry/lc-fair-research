@@ -9,6 +9,8 @@ objectives:
 - "Explain how data citation works in practice"
 - "Understand key components of a data citation"
 - "Explore domain-relevant community standards including metadata standards"
+- "Understand how proper licensing is essential for reusability"
+- "Know about some of the licenses commonly used for data and software"
 keypoints:
 - "First key point."
 ---
