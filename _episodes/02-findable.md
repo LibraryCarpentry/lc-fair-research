@@ -24,7 +24,7 @@ keypoints:
 
 ## Persistent identifiers (PIDs) 101
 
-A persistent identifier (PID) is a long-lasting reference to a resource:
+A persistent identifier (PID) is a long-lasting reference to a (digital or physical) resource:
 
 - Designed to provide access to information about a resource even if the resource it describes has moved location on the web
 - Requires technical, governance and community to provide the persistence
