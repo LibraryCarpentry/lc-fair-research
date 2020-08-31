@@ -27,7 +27,7 @@ FAIR is a journey. Technology and the way people work is shifting often and what
 
 The FAIR principles are a way of reaching for best data and software practices, coming to a convergence on what those are, and how to get there. They are NOT rules. They are NOT a standard. They are NOT a requirement. The principles were not meant to be prescriptive but instead offer a vision to optimise data/software sharing and reuse by humans and machines. 
 
-> ## Inconsistent interprtations
+> ## Inconsistent interpretations
 > The lack of information on how to implement the FAIR principles have led to inconsistent interpretations of them... Jacobsen, A., de Miranda Azevedo, R., Juty, N., Batista, D., Coles, S., Cornet, R., ... & Goble, C. (2020). [FAIR principles: interpretations and implementation considerations](https://www.mitpressjournals.org/doi/full/10.1162/dint_r_00024).
 >
 {: .callout}
@@ -86,10 +86,10 @@ Example: metadata
 This is a developing area, so if you have any resources that you would like to share, please add them to this lesson via a pull request or GitHub issue.
 Other optinos to share, Twitter hashtag?
 
-Additional tools…
-Make Data Count https://makedatacount.org/
-DANS https://www.surveymonkey.com/r/fairdat
-ARDC https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-tool/
-DTL FAIRifier https://github.com/DTL-FAIRData/FAIRifier
+Additional tools…  
+Make Data Count https://makedatacount.org/  
+DANS https://www.surveymonkey.com/r/fairdat  
+ARDC https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-tool/  
+DTL FAIRifier https://github.com/DTL-FAIRData/FAIRifier 
 
 
