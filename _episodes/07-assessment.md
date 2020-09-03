@@ -74,7 +74,7 @@ Exercise - Choose a service and think about how it supports the FAIR principles.
 
 ## Other assessment tools 
 
-List is available via FAIRsharing at https://fairassist.org/#!/
+To see a list of additional resources for the assessment and/or evaluation of digital objects against the FAIR principles, see [https://fairassist.org/](https://fairassist.org/).
 
 ## Planning
 
@@ -83,10 +83,9 @@ Data & Software Management Plans
 ## Systematic FAIR assessments 
 Example: metadata
 
-
 ## Resources
 This is a developing area, so if you have any resources that you would like to share, please add them to this lesson via a pull request or GitHub issue.
-Other optinos to share, Twitter hashtag?
+
 
 Additional tools…  
 Make Data Count https://makedatacount.org/  
