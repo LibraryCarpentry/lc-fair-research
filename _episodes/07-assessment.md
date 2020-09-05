@@ -28,7 +28,7 @@ FAIR is a journey. Technology and the way people work is shifting often and what
 The FAIR principles are a way of reaching for best data and software practices, coming to a convergence on what those are, and how to get there. They are NOT rules. They are NOT a standard. They are NOT a requirement. The principles were not meant to be prescriptive but instead offer a vision to optimise data/software sharing and reuse by humans and machines. 
 
 > ## Inconsistent interpretations
-> The lack of information on how to implement the FAIR principles have led to inconsistent interpretations of them... Jacobsen, A., de Miranda Azevedo, R., Juty, N., Batista, D., Coles, S., Cornet, R., ... & Goble, C. (2020). [FAIR principles: interpretations and implementation considerations](https://www.mitpressjournals.org/doi/full/10.1162/dint_r_00024).
+> The lack of information on how to implement the FAIR principles have led to inconsistent interpretations. Jacobsen, A., de Miranda Azevedo, R., Juty, N., Batista, D., Coles, S., Cornet, R., ... & Goble, C. (2020). [FAIR principles: interpretations and implementation considerations](https://www.mitpressjournals.org/doi/full/10.1162/dint_r_00024) describes implementation considerations.
 >
 {: .callout}
 
@@ -45,18 +45,19 @@ How FAIR are you? The FAIRsFAIR project has developed an assessment tool called 
 > Encourage your workshop participants to review the episodes in this FAIR lesson and take the [FAIR-Aware](https://fairaware.dans.knaw.nl) assessment ahead of time. In person (or virtual), ask the participants to split up into groups and to highlight some of their key questions/findings from the FAIR-Aware assessment. Ask them to note their questions/findings/anything else in the session’s collaborative notes. After a duration, ask the groups to return to the main group and call on each group (leader) to summarise their discussion. Synthesise some of the key points and discuss next steps on how participants can address their FAIRness moving forward.
 {: .challenge}
 
-Also see https://doi.org/10.5281/zenodo.3678715
+Alternatively, the [Australian Research Data Commons (ARDC) FAIR data assessment tool](https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-tool/) is also available and can be substituted for the FAIR-Aware assessment tool.
+
+## Evaluate the FAIRness of digital resources
+Evaluation tool https://fairsharing.github.io/FAIR-Evaluator-FrontEnd/#!/#%2F!
+
+Anything from DataOne...
 
 What to assess
 A large subset of the FAIR principles apply to metadata and data
 Many reports and projects are investigating how to apply the FAIR principles to digital objects in general, including software and code but also research publications. (https://wellcome.ac.uk/what-we-do/our-work/open-research and https://rd-alliance.org/groups/fair-4-research-software-fair4rs-wg)
 
-## Organization
-As an org…
-
-## Discipline/community (journals?)
-
-## National
+## Community assessment
+CESSDA/Turning FAIR into reality
 
 Exercise - Try and find policies in your region, country, commonwealth that reference the FAIR principles and encourage their implementation
 
@@ -80,12 +81,12 @@ To see a list of additional resources for the assessment and/or evaluation of di
 
 Data & Software Management Plans
 
-## Systematic FAIR assessments 
-Example: metadata
 
 ## Resources
 This is a developing area, so if you have any resources that you would like to share, please add them to this lesson via a pull request or GitHub issue.
 
+
+Also see https://doi.org/10.5281/zenodo.3678715
 
 Additional tools…  
 Make Data Count https://makedatacount.org/  
