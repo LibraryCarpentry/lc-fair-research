@@ -34,8 +34,8 @@ The FAIR principles are a way of reaching for best data and software practices, 
 
 ## Types of assessment
 
-Depending on your needs, whether you want to assess yourself, organizing, community...  the following FAIR assessment tools and exercises are available:
-Potential ideas for assessments https://zenodo.org/record/3987052#.X0ZbepNKiEs
+Depending on your needs, whether you want to assess yourself, a service, your organization or community, or even your country or region, FAIR assessment or evaluation tools are available to help guide you in your path towards FAIR betterment. The following are some resources and exercises to help you get started.
+
 
 ## Individual assessment
 
@@ -45,37 +45,41 @@ How FAIR are you? The FAIRsFAIR project has developed an assessment tool called 
 > Encourage your workshop participants to review the episodes in this FAIR lesson and take the [FAIR-Aware](https://fairaware.dans.knaw.nl) assessment ahead of time. In person (or virtual), ask the participants to split up into groups and to highlight some of their key questions/findings from the FAIR-Aware assessment. Ask them to note their questions/findings/anything else in the session’s collaborative notes. After a duration, ask the groups to return to the main group and call on each group (leader) to summarise their discussion. Synthesise some of the key points and discuss next steps on how participants can address their FAIRness moving forward.
 {: .challenge}
 
-Alternatively, the [Australian Research Data Commons (ARDC) FAIR data assessment tool](https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-tool/) is also available and can be substituted for the FAIR-Aware assessment tool.
+Alternatively, the [Australian Research Data Commons (ARDC) FAIR data assessment tool](https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-tool/) and/or the *[How FAIR are your data?](http://doi.org/10.5281/zenodo.3405141)* checklist by Jones and Grootveld are also available and can be substituted for the FAIR-Aware assessment tool.
 
 ## Evaluate the FAIRness of digital resources
-Evaluation tool https://fairsharing.github.io/FAIR-Evaluator-FrontEnd/#!/#%2F!
+How FAIR is your service and the digital resources you share? How can your service enable greater machine discoverability and (re)use of its digital resoruces? Evaluation of your service's FAIRness lies on a continuum based on the behaviors and norms of your community. Frameworks and tools to assess services are currently under development and what options are available should be paired with the evaulation of what makes sense to your community. 
 
-Anything from DataOne...
+> ## FAIR Evaluation Services
+> The [FAIR Evaluation Service](https://fairsharing.github.io/FAIR-Evaluator-FrontEnd/#!/) is available to assess the FAIRness of your digital resources. Developed by the Maturity Indicator Authoring Group, FAIR Maturity Indicators are available to test your service via a submission process. The rationale for the Service are explained in *[Cloudy, increasingly FAIR; revisiting the FAIR Data guiding principles for the European Open Science Cloud](http://doi.org/10.3233/ISU-170824)*. To get started, the Group can also be reached via their Service.
+>
+{: .callout}
 
-What to assess
-A large subset of the FAIR principles apply to metadata and data
-Many reports and projects are investigating how to apply the FAIR principles to digital objects in general, including software and code but also research publications. (https://wellcome.ac.uk/what-we-do/our-work/open-research and https://rd-alliance.org/groups/fair-4-research-software-fair4rs-wg)
+As a service provider, for example a data repository, you might want to assess the FAIRness of datasets in your systems. You can do this by using one of the resources at [FAIRassist](https://fairassist.org/#!/) or you can start your assessment manually (as a group exercise). Some infrastructure providers have provided overviews of how their services enable FAIR.
+
+- [Zenodo offers an overview](https://about.zenodo.org/principles/) of how the service responds to the FAIR principles. 
+- Figshare also [published a statement paper](https://doi.org/10.6084/m9.figshare.7476428.v1 ) on how it supports the FAIR principles.
+
+> ## Challenge
+> Encourage your workshop participants to review the episodes in this FAIR lesson and then review the FAIR principles responses/statements from Zenodo and Figshare above before the workshop. Again, ahead of the workshop, ask the participants to develop similar responses/statements for a service at their organisation, in their community. An outline with brief bullet points is best. Pre-assign workshop participants to groups and ask them to share their responses/statements with each other. Then in person (or virtual), ask the participants to split up into their pre-assigned groups and to discuss each other's responses/statements. Ask them to note their questions/findings/anything else in the session’s collaborative notes. After a duration, ask the groups to return to the main group and call on each group (leader) to summarise their discussion. Synthesise some of the key points and discuss next steps on how participants can address their FAIRness moving forward.
+{: .challenge}
+
+> ## Quantifying FAIR
+> In a recent DataONE webinar titled *[Quatifying FAIR](https://www.dataone.org/uploads/dataonewebinar_jonesslaughter_fairmetadata_190514.pdf)*, Jones and Slaughter describe tests that have been conducted to assess the FAIRness of digital resources across their services. The [MetaDIG](https://github.com/NCEAS/metadig-checks) tool is referenced, used to check the quality of metadata in these services. Based on this work, DataONE also lists a [Make your data FAIR](https://www.dataone.org/fair/) tool as coming soon
+>
+{: .callout}
 
 ## Community assessment
 CESSDA/Turning FAIR into reality
 
 Exercise - Try and find policies in your region, country, commonwealth that reference the FAIR principles and encourage their implementation
 
-## Services
-
-As a service provider, for example a data repository, you might want to assess the FAIRness of datasets in your systems. You can do this manually by choosing a checklist from the overview provided at https://fairassist.org/#!/
-
-Some infrastructure providers also provide overviews how the service they offer can enable FAIR data. Frameworks and tools to assess services are currently under development.
-
-Zenodo offers an overview of how using zenodo can help data being FAIR: https://about.zenodo.org/principles/ 
-Figshare also published a statement paper on how it supports the FAIR principles.
-Splawa-Neyman, Patrick (2018): Figshare and the FAIR data principles. figshare. Journal contribution. https://doi.org/10.6084/m9.figshare.7476428.v1 
-
-Exercise - Choose a service and think about how it supports the FAIR principles. 
+Wellcome guidance for organisations...
+https://wellcome.ac.uk/what-we-do/our-work/open-research
 
 ## Other assessment tools 
 
-To see a list of additional resources for the assessment and/or evaluation of digital objects against the FAIR principles, see [https://fairassist.org/](https://fairassist.org/).
+To see a list of additional resources for the assessment and/or evaluation of digital objects against the FAIR principles, see [FAIRassist](https://fairassist.org/).
 
 ## Planning
 
