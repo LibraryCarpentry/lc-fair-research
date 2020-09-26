@@ -37,29 +37,49 @@ As another example scans (photographs) of text are not machine-readable (but are
 
 
 ## File naming best practices
-Stanford Libraries [guidance on file naming](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming) is a great place to start, but general best practice is to organize files in a consistent manner and clearly describe the content they contain. Avoid including spaces and special characters which can be difficult for computers to read. Use common [special letter case](https://en.wikipedia.org/wiki/Letter_case#Special_case_styles) patterns such as Kebab-case, CamelCase, or Snake_case. Include author name, project name, type of data, type of analysis, date, and file extension. 
-Here are some examples [from Dryad](http://datadryad.com/pages/reusabilityBestPractices):
+A file name should be unique, consistent and descriptive. This allows for increased visibility and discoverability and can be used to easily classify and sort files. Remember, a file name is the primary identifier to the file and its contents.  
+### Do’s and Don’ts of file naming:
+#### Do’s: 
+- Make use of file naming tools for bulk naming such as Ant Renamer, RenameIT or Rename4Mac.
+- Create descriptive, meaningful, easily understood names no less than 12-14 characters. 
+- Use identifiers to make it easier to classify types of files i.e. Int1 (interview 1) 
+- Make sure the 3-letter file format extension is present at the end of the name (e.g. .doc, .xls, .mov, .tif)
+- If applicable, include versioning within file names
+- For dates use the  ISO 8601  standard: YYYY-MM-DD and place at the end of the file number UNLESS you need to organise your files chronologically. 
+- For experimental data files, consider using the project/experiment name and conditions in abbreviations 
+- Add a README file in your top directory which details your naming convention, directory structure and abbreviations
+- - When combining elements in file name, use common [special letter case](https://en.wikipedia.org/wiki/Letter_case#Special_case_styles) patterns such as Kebab-case, CamelCase, or Snake_case, preferably use hyphens (-) or underscores (_) 
+#### Don’ts:
+- Avoid naming files/folders with individual persons names as it impedes handover and data sharing. 
+- Avoid long names
+- Avoid using spaces, dots, commas and special characters (e.g. ~ ! @ # $ % ^ & * ( ) ` ; < > ? , [ ] { } ‘ “)
+- Avoid repetition for ex. Directory name Electron_Microscopy_Images, then you don’t need to name the files ELN_MI_Img_20200101.img 
 
+#### Examples: 
+- Stanford Libraries [guidance on file naming](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming) is a great place to start. 
+- [Dryad example](http://datadryad.com/pages/reusabilityBestPractices):
 - 1900-2000_sasquatch_migration_coordinates.csv
 - Smith-fMRI-neural-response-to-cupcakes-vs-vegetables.nii.gz
 - 2015-SimulationOfTropicalFrogEvolution.R
 
 ## Directory structures and README files
+A clear directory structure will make it easier to locate files and versions and this is particularly important when collaborating with others. Consider a hierarchical file structure starting from broad topics to more specific ones nested inside, restricting the level of folders to 3 or 4 with a limited number of items inside each of them. 
+
+The UK data services offers an example of directory structure and naming: https://ukdataservice.ac.uk/manage-data/format/organising.aspx 
+
 For others to reuse your research, it is important to include a README file and to organize your files in a logical way. Consider the following file structure examples from Dryad:
 
 ![Dryad File Structures](../fig/file_structures.png)
 
 It is also good practice to include README files to describe how the data was collected, processed, and analyzed. In other words, README files help others correctly interpret and reanalyze your data. A README file can include file names/directory structure, glossary/definitions of acronyms/terms, description of the parameters/variables and units of measurement, report precision/accuracy/uncertainty in measurements, standards/calibrations used, environment/experimental conditions, quality assurance/quality control applied, known problems, research date information, description of relationships/dependencies, additional resources/references, methods/software/data used, example records, and other supplemental information. 
 
-Dryad README file example:
+- Dryad README file example:
 https://datadryad.org//resource/doi:10.5061/dryad.j512f21p
 
-Awesome README list (for software):
+- Awesome README list (for software):
 https://github.com/matiassingers/awesome-readme
 
-
-
-Different Format Types 
+- Different Format Types 
 https://data.library.virginia.edu/data-management/plan/format-types/
 
 ## Disciplinary Data Formats
