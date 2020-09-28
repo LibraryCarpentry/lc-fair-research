@@ -40,19 +40,26 @@ Across the research ecosystem, publishers, repositories, funders, research infor
   
 ![Jens Åge Smærup Sørensen](https://slideplayer.com/13579783/82/images/5/Jens+%C3%85ge+Sm%C3%A6rup+S%C3%B8rensen.jpg)
 
-Thankfully, a number of research systems are now integrating ORCID into their authentication systems. Zenodo provides the login ORCID authentication option. Once logged in, your ORCID will be assigned to your authored and deposited works:  
- 
+Thankfully, a number of research systems are now integrating ORCID into their authentication systems. Zenodo provides the login ORCID authentication option. Once logged in, your ORCID will be assigned to your authored and deposited works.
+
+## Exercise to create ORCID account and authenticate via Zenodo
+1. [Register](https://orcid.org/register) for an ORCID.
+2. You will receive a confirmation email. Click the link in the email to establish your unique 16-digit ORCID.
+3. Go to [Zenodo](https://zenodo.org/) and select Log in (if you are new to Zenodo select Sign up).
+4. Go to [linked accounts](https://zenodo.org/account/settings/linkedaccounts/) and click the Connect button next to ORCID.
+
+Next time you log into Zenodo you will be able to 'Log in with ORCID':
+
 ![Zenodo login with ORCID and GitHub authentication](https://annefou.github.io/jupyter_dashboards/images/zenodo_login.png)
  
-## Exercise to create ORCID account and authenticate via Zenodo
- 
 ## Understanding whether something is open, free, and universally implementable
-ORCID features a principles page where we can assess where it lies on the spectrum of these criteria. Can you identify statements that speak to these conditions: open, free, and universally implemetable?
+ORCID features a [principles page](https://orcid.org/about/what-is-orcid/principles) where we can assess where it lies on the spectrum of these criteria. Can you identify statements that speak to these conditions: open, free, and universally implemetable?
  
 Answers:
 - ORCID is a non-profit that collects fees from its members to sustain its operations
 - [Creative Commons CC0 1.0 Universal (CC0)](https://tldrlegal.com/license/creative-commons-cc0-1.0-universal) license releases data into the public domain, or otherwise grants permission to use it for any purpose
 - It is open to any organization and transcends borders
+
 Challenge Questions:
 - Where can you download the freely available data?
 - How does ORCID solicit community input outside of its governance?
@@ -70,16 +77,8 @@ DataCite offers [statistics](https://stats.datacite.org/) where the failure to r
 If a DOI is no longer available and the data center does not have the resources to create a tombstone page, DataCite provides a generic [tombstone page](https://support.datacite.org/docs/tombstone-pages).
 
 **See the following tombstone examples:**
-
-Zenodo tombstone:
-https://zenodo.org/record/1098445
-
-Figshare tombstone:
-https://figshare.com/articles/Climate_Change/1381402
+- Zenodo tombstone: [https://zenodo.org/record/1098445](https://zenodo.org/record/1098445)
+- Figshare tombstone: [https://figshare.com/articles/Climate_Change/1381402](https://figshare.com/articles/Climate_Change/1381402)
 
 ## Discussion of tombstones
 
-## Lessons to teach in connection with this section and exercises
-[Software Carpentry: Version Control with Git](https://swcarpentry.github.io/git-novice/) or [Library Carpentry: Intro to Git](https://librarycarpentry.github.io/lc-git/)
-[Making your Code Citeable](https://guides.github.com/activities/citable-code/)
-Does an exercise or lesson exist that we can point to involving Software Heritage?

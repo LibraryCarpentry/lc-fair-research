@@ -3,11 +3,16 @@ title: "Introduction"
 teaching: 0
 exercises: 0
 questions:
-- "Key question"
+- 'What does the acronym "FAIR" stand for, and what does it mean?'
+- "How can library services contribute to FAIR research?"
 objectives:
-- "First objective."
+- "Articulate the purpose and value of making research FAIR"
+- "Understand that library services impact various parts of the research lifecycle"
 keypoints:
-- "First key point."
+- The FAIR principles set out how to make data more usable, by humans and machines,
+  by making it Findable, Accessible, Interoperable and Reusable.
+- Librarians have key expertise in information management that can help researchers
+  navigate the process of making their research more FAIR
 ---
 
 ## Goals of this lesson:
@@ -33,7 +38,7 @@ The FAIR data principles are all about how machines and humans communicate with 
 
 ## Where did FAIR come from?
 
-The FAIR data principles emerged from a FORCE11 workshop in 2014. This was formalised in 2016 when these were published in Scientific Data: [FAIR Guiding Principles for scientific data management and stewardship](https://www.nature.com/articles/sdata201618). In this article, the authors provide general guidance on machine-actionability and improvements that can be made to streamline the findability, accessibility, interoperatbility, and reuability (FAIR) of digital assets.   
+The FAIR data principles emerged from a FORCE11 workshop in 2014. This was formalised in 2016 when these were published in Scientific Data: [FAIR Guiding Principles for scientific data management and stewardship](https://doi.org/10.1038/sdata.2016.18). In this article, the authors provide general guidance on machine-actionability and improvements that can be made to streamline the findability, accessibility, interoperatbility, and reuability (FAIR) of digital assets.   
 
 "as open as possible, as closed as necessary"
 

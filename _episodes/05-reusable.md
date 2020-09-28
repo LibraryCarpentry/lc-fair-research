@@ -9,6 +9,8 @@ objectives:
 - "Explain how data citation works in practice"
 - "Understand key components of a data citation"
 - "Explore domain-relevant community standards including metadata standards"
+- "Understand how proper licensing is essential for reusability"
+- "Know about some of the licenses commonly used for data and software"
 keypoints:
 - "First key point."
 ---
@@ -74,7 +76,7 @@ For others to reuse your research, it is important to include a README file and 
 It is also good practice to include README files to describe how the data was collected, processed, and analyzed. In other words, README files help others correctly interpret and reanalyze your data. A README file can include file names/directory structure, glossary/definitions of acronyms/terms, description of the parameters/variables and units of measurement, report precision/accuracy/uncertainty in measurements, standards/calibrations used, environment/experimental conditions, quality assurance/quality control applied, known problems, research date information, description of relationships/dependencies, additional resources/references, methods/software/data used, example records, and other supplemental information. 
 
 - Dryad README file example:
-https://datadryad.org//resource/doi:10.5061/dryad.j512f21p
+https://doi.org/10.5061/dryad.j512f21p
 
 - Awesome README list (for software):
 https://github.com/matiassingers/awesome-readme
@@ -132,3 +134,18 @@ Reference Management w/ Zotero or other
 demo: import Zenodo.org/record/1308061 into Zotero
 demo: RStudio > Packages > Update, run PANGAEA example, then install updates
 https://tibhannover.github.io/2018-07-09-FAIR-Data-and-Software/FAIR-remix-PANGAEA/index.html
+
+Useful content for Licenses
+Note: TIB Hannover Slides https://docs.google.com/presentation/d/1mSeanQqO0Y2khA8KK48wtQQ_JGYncGexjnspzs7cWLU/edit#slide=id.g3a64c782ff_1_138
+
+Additional licensing resources:
+Choose an open source license: https://choosealicense.com/
+4 Simple recommendations for Open Source Software https://softdev4research.github.io/4OSS-lesson/
+Use a license: https://softdev4research.github.io/4OSS-lesson/03-use-license/index.html
+Top 10 FAIR Imaging https://librarycarpentry.org/Top-10-FAIR//2019/06/27/imaging/
+Licensing your work: https://librarycarpentry.org/Top-10-FAIR//2019/06/27/imaging/#9-licensing-your-work
+The Turing Way a Guide for reproducible Research: https://the-turing-way.netlify.app/welcome
+Licensing https://the-turing-way.netlify.app/reproducible-research/licensing.html
+The Open Science Training Handbook: https://open-science-training-handbook.gitbook.io/book/
+Open Licensing and file formats https://open-science-training-handbook.gitbook.io/book/open-science-basics/open-licensing-and-file-formats#6-open-licensing-and-file-formats
+DCC How to license research data https://www.dcc.ac.uk/guidance/how-guides/license-research-data
