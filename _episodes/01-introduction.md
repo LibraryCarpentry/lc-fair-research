@@ -28,9 +28,9 @@ They play a vital role in directly supporting the academic enterprise by promoti
 
 As a trusted partner, and with an embedded understanding of their communities, libraries foster collaboration and facilitate coordination between community stakeholders and are a critical part of the discussion. 
 
-![The integrated scientific life cycle of embedded networked sensor research.](../fig/pepe_research_lifecycle.png)
+![Research Data Life Cycle](https://zenodo.org/record/4057867/files/Research%20Data%20Life%20Cycle.png)
 
-Pepe, A., Mayernik, M., Borgman, C.L. and Van de Sompel, H., 2010. [From artifacts to aggregations: Modeling scientific life cycles on the semantic web.](https://arxiv.org/abs/0906.2549?context=cs) Journal of the American Society for Information Science and Technology, 61(3), pp.567-582. arXiv: https://arxiv.org/abs/0906.2549?context=cs.
+El-Gebali, Sara. (2020, September 29). Research Data Life Cycle. Zenodo. [http://doi.org/10.5281/zenodo.4057867](http://doi.org/10.5281/zenodo.4057867)
 
 ## FAIR in one sentence
 
