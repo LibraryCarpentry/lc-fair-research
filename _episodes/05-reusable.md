@@ -170,7 +170,7 @@ Open Licensing and file formats https://open-science-training-handbook.gitbook.i
 DCC How to license research data https://www.dcc.ac.uk/guidance/how-guides/license-research-data
 
 
-## Exercise- Thanks, but no THanks! 
+## Exercise- Thanks, but no Thanks! 
 In groups of 2-3 discuss and note down;
 - Have you ever received data you couldn’t use? & why not?
 - Have you tried replicating an experiment, yours or someone else? What challenges did you face?
