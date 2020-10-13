@@ -84,6 +84,7 @@ https://github.com/matiassingers/awesome-readme
 - Different Format Types 
 https://data.library.virginia.edu/data-management/plan/format-types/
 
+
 ## Disciplinary Data Formats
 
 Many disciplines have developed formal metadata standards that enable re-use of data; however, these standards are not universal and often it requires background knowledge to indentify, contextualize, and interpret the underlying data. Interoperability between disciplines is still a challenge based on the continued use of custom metadata schmes, and the development of new, incompatiable standards. Thankfully, DataCite is providing a common, overarching metadata standard across disciplinary datasets, albeit at a generic vs granular level. 
@@ -95,6 +96,24 @@ Exercise/Quiz?
 [Metadata Standards Directory](http://rd-alliance.github.io/metadata-directory/standards/)  
 Features: Standards, Extensions, Tools, and Use Cases
 
+## Quality Control
+Quality control is a fundamental step in research, which ensures the integrity of the data and could affect its use and reuse and is required in order to identify potential problems. 
+
+It is therefore essential to outline how data collection will be controlled at various stages (data collection,digitisation or data entry, checking and analysis).
+
+## Versioning
+In order to keep track of changes made to a file/dataset, versioning can be an efficient way to see who did what and when, in collaborative work this can be very useful. 
+
+A version control strategy will allow you to easily detect the most current/final version,  organize, manage and record any edits made while working on the document/data, drafting, editing and analysis. 
+
+Consider the following practices:
+- Outline the master file and identify major files for instance; original, pre-review, 1st revision, 2nd revision, final revision, submitted. 
+- Outline strategy for archiving and storing: Where to store the minor and major versions, how long will you retain them accordingly. 
+- Maintain a record of file locations, a good place is in the README files
+
+Example: 
+UK Data service version control guide:
+https://www.ukdataservice.ac.uk/manage-data/format/versioning.aspx
 
 ## Research vocabularies
 Research Vocabularies Australia https://vocabs.ands.org.au/
@@ -149,3 +168,10 @@ Licensing https://the-turing-way.netlify.app/reproducible-research/licensing.htm
 The Open Science Training Handbook: https://open-science-training-handbook.gitbook.io/book/
 Open Licensing and file formats https://open-science-training-handbook.gitbook.io/book/open-science-basics/open-licensing-and-file-formats#6-open-licensing-and-file-formats
 DCC How to license research data https://www.dcc.ac.uk/guidance/how-guides/license-research-data
+
+
+## Exercise- Thanks, but no THanks! 
+In groups of 2-3 discuss and note down;
+- Have you ever received data you couldn’t use? & why not?
+- Have you tried replicating an experiment, yours or someone else? What challenges did you face?
+
