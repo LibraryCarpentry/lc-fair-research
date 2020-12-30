@@ -48,7 +48,7 @@ A DOI has three main parts:
 
 ![Anatomy of a DOI](../fig/anatomy-of-a-doi.jpg) 
 
-In the example above, the prefix is used by the Australian National Data Service (ANDS) now called the Australia Research Data Commons (ARDC) and the suffix is a unique identifier for an object at Griffith... DataCite provides DOI [display guidance](https://support.datacite.org/docs/datacite-doi-display-guidelines
+In the example above, the prefix is used by the Australian National Data Service (ANDS) now called the Australia Research Data Commons (ARDC) and the suffix is a unique identifier for an object at Griffith University. DataCite provides DOI [display guidance](https://support.datacite.org/docs/datacite-doi-display-guidelines
 ) so that they are easy to recognize and use, for both humans and machines.
 
 > ## Challenge
@@ -64,7 +64,7 @@ In the example above, the prefix is used by the Australian National Data Service
 
 ## Rich Metadata
 
-More and more services are using common schemas such as DataCite's Metadata Schema or [Schema.org](https://Schema.org) to foster greater use and discovery. A schema provides an overall structure for the metadata and describes core metadata properties. While DataCite's Metadata Schema is more general, there are discipline specific schemas such as [Data Documentation Initiative (DDI) and Darwin Core](https://en.wikipedia.org/wiki/Metadata_standard). 
+More and more services are using common schemas such as [DataCite's Metadata Schema](https://schema.datacite.org) or [Dublin Core](https://www.dublincore.org) to foster greater use and discovery. A schema provides an overall structure for the metadata and describes core metadata properties. While DataCite's Metadata Schema is more general, there are discipline specific schemas such as [Data Documentation Initiative (DDI) and Darwin Core](https://en.wikipedia.org/wiki/Metadata_standard). 
 
 Thanks to schemas, the process of adding metadata has been standardised to some extent but there is still room for error. For instance, DataCite [reports](https://blog.datacite.org/citation-analysis-scholix-rda/) that links between papers and data are still very low. Publishers and authors are missing this opportunity. 
 
@@ -102,9 +102,6 @@ Metadata is central to visibility and citability – metadata behind a PID shoul
 Policies behind a PID system ensure persistence in the WWW - point. At least metadata will be available for a long time.
 Machine readability will be an essential part of future discoverability – resources should be checked and formats should be adjusted (as far possible).
 Metrics (e.g. altmetrics) are supported by PID systems.
-
-## Rich Metadata
-https://schema.datacite.org/
 
 
 ## Publishing behaviour of researchers 
