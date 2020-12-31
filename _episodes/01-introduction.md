@@ -52,7 +52,7 @@ Research is increasingly dependent on computational support and yet there are st
 
   * If your local data repository shares metadata with other aggregators, it's F for Findable.
   * If you advocate for researchers to use ORCIDs and seek DOIs for research data outputs, it's F for Findable
-  * If you r institution mints DOIs for research datasets... that's A for Accessible.
+  * If your institution mints DOIs for research datasets... that's A for Accessible.
   * If your institutional data repository enables metadata for harvest by an aggregator, that's I for Interoperable.
   * If you provide advice and consultation services for choosing licences for research data, that's R for Reusable
 
@@ -61,9 +61,7 @@ Research is increasingly dependent on computational support and yet there are st
 TIB Hannover has provided the following FAIR guide with examples:
 [TIB Hannover FAIR Principles Guide](https://blogs.tib.eu/wp/tib/2017/09/12/the-fair-data-principles-for-research-data) 
 
-FAIR Data Action Plan
-https://github.com/FAIR-Data-EG/Action-Plan 
-
+The European Commission gives tips on implementing FAIR: [Six Recommendations for Implementation of FAIR Practice](https://doi.org/10.2777/986252)
 
 ## How does “FAIR” translate to your institution or workplace?
 
@@ -76,4 +74,4 @@ Use an etherpad / whiteboard
 
 * Compile a list of research management tools that your institution provides access to and brainstorm examples where these tools embody the FAIR data principles.
 
-* Use the [FAIR data self assessment tool] (https://www.ands.org.au/working-with-data/fairdata/fair-data-self-assessment-tool) to help frame your answers.
+* Use the [FAIR data self assessment tool](https://www.ands.org.au/working-with-data/fairdata/fair-data-self-assessment-tool) to help frame your answers.
