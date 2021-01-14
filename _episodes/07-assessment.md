@@ -85,6 +85,11 @@ To see a list of additional resources for the assessment and/or evaluation of di
 
 Data & Software Management Plans
 
+Examples:
+
+- DMPonline https://dmponline.dcc.ac.uk/
+- DMPTool - https://dmptool.org/
+- ICPSR example pans - https://www.icpsr.umich.edu/web/pages/datamanagement/dmp/plan.html
 
 ## Resources
 This is a developing area, so if you have any resources that you would like to share, please add them to this lesson via a pull request or GitHub issue.
