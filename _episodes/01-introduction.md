@@ -28,7 +28,7 @@ They play a vital role in directly supporting the academic enterprise by promoti
 
 As a trusted partner, and with an embedded understanding of their communities, libraries foster collaboration and facilitate coordination between community stakeholders and are a critical part of the discussion. 
 
-![Research Data Life Cycle](https://zenodo.org/record/4057867/files/Research%20Data%20Life%20Cycle.png)
+![Research Data Life Cycle](https://zenodo.org/record/4443097/files/Research%20Data%20Life%20Cycle%20v.1.png)
 
 El-Gebali, Sara. (2020, September 29). Research Data Life Cycle. Zenodo. [http://doi.org/10.5281/zenodo.4057867](http://doi.org/10.5281/zenodo.4057867)
 
