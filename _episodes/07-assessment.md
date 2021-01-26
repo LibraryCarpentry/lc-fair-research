@@ -70,12 +70,25 @@ As a service provider, for example a data repository, you might want to assess t
 {: .callout}
 
 ## Community assessment
-CESSDA/Turning FAIR into reality
 
-Exercise - Try and find policies in your region, country, commonwealth that reference the FAIR principles and encourage their implementation
+Communities can also assess how FAIR they are and develop goals and/or action plans for advancing FAIR. Communities can range from topical to regional and even organisational. A recently published report from the Directorate-General for Research and Innovation (European Commission) titled "Turning FAIR into reality" is an invaluable resource for creating action plans and turning FAIR into reality for communities. The report includes a survey and analysis of what is needed to implement FAIR, concrete recommendations and actions for stakeholders, and example case studies to learn from. Ultimately, the report serves as a useful framework for mapping a community's next steps towards a FAIRer future. 
 
-Wellcome guidance for organisations...
-https://wellcome.ac.uk/what-we-do/our-work/open-research
+> ## Challenge
+> Encourage your workshop participants to first read: 
+> 
+> Collins, Sandra, et al. "Turning FAIR into reality: Final report and action plan from the European Commission expert group on FAIR data." (2018). [https://op.europa.eu/en/publication-detail/-/publication/7769a148-f1f6-11e8-9982-01aa75ed71a1](https://op.europa.eu/en/publication-detail/-/publication/7769a148-f1f6-11e8-9982-01aa75ed71a1)
+> 
+> Leverage the recommendations (pictured below) and organise group discussions on these themes. Ask the participants to brainstorm initial responses to these themes ahead of the workshop and collect their initial responses in a collaborative document, structured by the themes. During the workshop, ask the participants to join their groups based on the themes they initially responded to and discuss each other's responses. Ask them to note their questions/findings/anything else in the session’s collaborative notes. After a duration, ask the groups to return to the main group and call on each group (leader) to summarise their discussion. Synthesise some of the key points and discuss next steps on how participants can address their FAIRness moving forward.
+> 
+> ![Index to FAIR Action Plan recommendations](https://pbs.twimg.com/media/Ds4c7HJWkAAdik2?format=jpg&name=large)
+{: .challenge}
+
+> ## Challenge
+> Alternatively, start your community off on the path to FAIR by setting up an initial study group. The group's goal, to scan, and possibly survey, work that has been done by community members (or like communities) on example/case studies, policies, recommendation, guidance, etc to collect resources to help inform future FAIR discussions/initiatives. Consider structuring your group work to produce guidance, e.g. [Top 10 FAIR Data and Software Things](https://librarycarpentry.org/Top-10-FAIR/):
+> 
+> Paula Andrea Martinez, Christopher Erdmann, Natasha Simons, Reid Otsuji, Stephanie Labou, Ryan Johnson, … Eliane Fankhauser. (2019, February). Top 10 FAIR Data & Software Things. Zenodo. [http://doi.org/10.5281/zenodo.3409968](http://doi.org/10.5281/zenodo.3409968)
+> 
+{: .challenge}
 
 ## Other assessment tools 
 
@@ -83,24 +96,28 @@ To see a list of additional resources for the assessment and/or evaluation of di
 
 ## Planning
 
-Data & Software Management Plans
+Data and software management plans are also a helpful tool for planning out how you/your group will manage data and software throughout your project but they also provide a mechanism for assessment at different checkpoints. Revisiting your plan at different checkpoints allows you to review how well you are doing, incorporate findings, and make improvements. This allows your plan to evolve, be more actionable, and less static. 
 
-Examples:
+Resources and examples include:
 
-- DMPonline https://dmponline.dcc.ac.uk/
-- DMPTool - https://dmptool.org/
-- ICPSR example pans - https://www.icpsr.umich.edu/web/pages/datamanagement/dmp/plan.html
+Data:
+- [Data Stewardship Wizard](https://ds-wizard.org/)
+- [DMPonline](https://dmponline.dcc.ac.uk/)
+- [DMPTool](https://dmptool.org/)
+- [ICPSR example pans](https://www.icpsr.umich.edu/web/pages/datamanagement/dmp/plan.html)
+- [LIBER Research Data Management Plan (DMP) Catalogue](https://libereurope.eu/working-group/research-data-management/plans/)
+
+Software:
+- [ELIXIR Software Management Plan](https://tinyurl.com/ELIXIR-SMP-draft-version-2 )
+- [SSI Software Management Plans](https://www.software.ac.uk/software-management-plans)
+- [CLARIAH Guidelines for Software Quality](https://github.com/CLARIAH/software-quality-guidelines/blob/v1.0/softwareguidelines.pdf)
+- [EURISE Network Software Quality Checklist](https://github.com/eurise-network/technical-reference/blob/v0.1/quality/software-checklist.rst)
+
+> ## Challenge
+> Use one of the resources above to draft a plan for your research project (as an individual and/or group). As an individual, ask a colleague to review your draft, provide feedback, and discuss. As a group, outline the plan questions in a collaborative document and work together to draft responses, then discuss together as a group. Consider publishing your plan to share with others. 
+> 
+{: .challenge}
 
 ## Resources
 This is a developing area, so if you have any resources that you would like to share, please add them to this lesson via a pull request or GitHub issue.
-
-
-Also see https://doi.org/10.5281/zenodo.3678715
-
-Additional tools…  
-Make Data Count https://makedatacount.org/  
-DANS https://www.surveymonkey.com/r/fairdat  
-ARDC https://ardc.edu.au/resources/working-with-data/fair-data/fair-self-assessment-tool/  
-DTL FAIRifier https://github.com/DTL-FAIRData/FAIRifier 
-
 
