@@ -3,7 +3,7 @@ title: "Assessment"
 teaching: 10
 exercises: 50
 questions:
-- "How can I assess the FAIRness of myself, organisation, service, community… ?"
+- "How can I assess the FAIRness of myself, an organisation, a service, a community… ?"
 - "Which FAIR assessment tools exist to understand how FAIR you are?"
 objectives:
 - "Assess the current FAIRness level of myself, organisation, service, community..."
