@@ -11,7 +11,7 @@ objectives:
 - "Understand the next steps you can take to being FAIRer."
 
 keypoints:
-- "First key point."
+- "Assessments and plans are helpful tools for understanding next steps/action plans for becoming more FAIR."
 ---
 
 ## Reasons for assessment
