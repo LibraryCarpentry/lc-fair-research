@@ -4,6 +4,7 @@
 - [Liz Stokes](https://github.com/ragamouf)
 - [Kristina Hettne](https://github.com/kmhettne)
 - [Carmi Cronje](https://github.com/ccronje)
+- [Sara El-Gebali](https://github.com/selgebali)
 
 Lesson Maintainers communication is via the [team site](https://github.com/orgs/LibraryCarpentry/teams/lc-fair-maintainers).
 
