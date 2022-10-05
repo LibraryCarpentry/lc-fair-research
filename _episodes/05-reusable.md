@@ -58,7 +58,7 @@ A file name should be unique, consistent and descriptive. This allows for increa
 - Avoid repetition for ex. Directory name Electron_Microscopy_Images, then you don’t need to name the files ELN_MI_Img_20200101.img 
 
 #### Examples: 
-- Stanford Libraries [guidance on file naming](https://library.stanford.edu/research/data-management-services/data-best-practices/best-practices-file-naming) is a great place to start. 
+- Stanford Libraries [guidance on file naming](https://guides.library.stanford.edu/data-best-practices) is a great place to start. 
 - [Dryad example](http://datadryad.com/pages/reusabilityBestPractices):
 - 1900-2000_sasquatch_migration_coordinates.csv
 - Smith-fMRI-neural-response-to-cupcakes-vs-vegetables.nii.gz
